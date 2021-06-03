@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The short history of New-England. A recapitulation of wonderful passages which have occur'd, first in the protections, and then in the afflictions, of New-England. : With a representation of certain matters calling for the singular attention of that country. / Made at Boston-lecture, in the audience of the Great and General Assembly of the province of the Massachusetts-Bay, June 7. 1694. By Cotton Mather.</title>
+            <author>Mather, Cotton, 1663-1728.</author>
+         </titleStmt>
+         <extent>Approx. 93KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88931</idno><idno type="EEBO-CITATION">45097847</idno>
+  <idno type="VID">171429</idno>
+  <idno type="EEBO-PROQUEST">2240897960</idno>
+  
+            <idno type="STC">Wing M1152</idno>
+            <idno type="STC">ESTC W19425</idno>
+            <idno type="OCLC">45097847</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2573:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The short history of New-England. A recapitulation of wonderful passages which have occur'd, first in the protections, and then in the afflictions, of New-England. : With a representation of certain matters calling for the singular attention of that country. / Made at Boston-lecture, in the audience of the Great and General Assembly of the province of the Massachusetts-Bay, June 7. 1694. By Cotton Mather.</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+               </titleStmt>
+               <extent>67 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Green, for Samuel Phillips, at the Brick Shop, at the west end of the Exchange,</publisher>
+                  <pubPlace>Boston. :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+                  <note>Imperfect: tightly bound with some loss of text; lacks p. 11-12; stained.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Ezekial XXII, 30 --  Sermons.</term>
+               <term type="topical_term">Sermons, American --  17th century.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+               <term type="geographic_name">New England --  History --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171429:1"/>
+            <pb facs="tcp:171429:2"/>
+            <p>
+               <pb facs="tcp:171429:2"/>
+               <hi>The Short History of <hi>New-England.</hi>
+               </hi>
+            </p>
+            <p>A RECAPITULATION OF Wonderful Passages Which have Occurr'd, First in the PROTECTIONS, and then in the AFFLICTIONS, of <hi>NEW-ENGLAND.</hi>
+            </p>
+            <p>With A REPRESENTATION.</p>
+            <p>Of <hi>Certain Matters</hi> calling for the Singular Attention of that Country.</p>
+            <p>Made at <hi>Boston-</hi>Lecture, in the Audience of the Great and General <hi>Assembly</hi> of the Province of the <hi>Massachu<g ref="char:EOLhyphen"/>sett-Bay, <hi>JUNE</hi>
+               </hi> 7. 1694.</p>
+            <p>
+               <hi>By</hi> COTTON MATHER.</p>
+            <q>
+               <bibl>1 <hi>SAM.</hi> 12. 7.</bibl>
+               <p>
+                  <hi>Stand Still, That I may Reason with You, before the Lord; of all the Righ<g ref="char:EOLhyphen"/>teous Acts of the Lord, which he did unto You, and unto your Fathers.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Boston. <hi>Printed by</hi>
+               </hi> B. Green, <hi>for</hi> Samuel Phillips, <hi>at the Brick Shop, at the West End of the Exchange,</hi> 1694.</p>
+            <pb facs="tcp:171429:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:171429:3"/>
+            <head>
+               <hi>Memorable Passages, relating to <hi>NEW-ENGLAND.</hi>
+               </hi>
+            </head>
+            <p>It is Written,</p>
+            <q>
+               <bibl>In EZEK. XXII. 30.—</bibl> I Sought for a MAN among them, that should make up the HEDGE, and stand in the GAP, before me, for the Land, that I should not Destroy it.</q>
+            <p>The Rest of what is <hi>Written</hi> in the Verse, I will not <hi>Now</hi> Read unto you, as Wishing and Hoping, that it may <hi>Never</hi> be <hi>fulfilled in our Eyes!</hi>
+            </p>
+            <p>IT was upon the <hi>Death</hi> of a Great Man among the Ancients, that a Fa<g ref="char:EOLhyphen"/>mous and Well-spok<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Orator, Ad<g ref="char:EOLhyphen"/>dressed a <hi>General Assembly</hi> of the Neighbourhood, with an Exclamation to
+<pb n="4" facs="tcp:171429:4"/> this purpose, <hi>What shall we do, O Citizens? Our Walls are fallen down?</hi> Indeed, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whole World seems at <hi>This Day,</hi> under the Accomplishment of that Commination, in Isai. 2. 15. <hi>The Day of the Lord of Hosts, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shall be upon every Fenced Wall.</hi> But such a Dark and such a Black Day, is mos<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> particularly come upon <hi>Our selves.</hi> The <hi>Death,</hi> which we have seen upon our <hi>First Generation,</hi> Administers unto us, who are <hi>Another,</hi> and well if not upon all Accounts <hi>Another, <hi>Generation,</hi>
+               </hi> a Mournful Occasi<g ref="char:EOLhyphen"/>on for that Lamentation, <hi>Our Walls are Fallen down!</hi> The <hi>Death</hi> which we have therewithal seen <hi>Gradually</hi> Siezing upon our <hi>Precious and Pleasant Things,</hi> Admini<g ref="char:EOLhyphen"/>sters unto us yet further Occasion for that Lamentation, <hi>Our Walls are fallen down!</hi> Yea, that our <hi>Walls</hi> are broken down, we have seen in the doleful and woful Effects of our own <hi>Experience,</hi> a most <hi>Effectual Demonstration.</hi>
+            </p>
+            <p>If our <hi>Walls</hi> had not been broken down, had the Wasting <hi>Fevers</hi> of the more Southern <hi>Indies</hi> broke in upon us, as they have done of late years, to render us as like the other <hi>West-Indian Plantations,</hi> for our <hi>Natural</hi> Distempers, as we become like them for our <hi>Moral</hi> ones? If our <hi>Walls</hi>
+               <pb n="5" facs="tcp:171429:4"/> had not been broken down, had worse things than <hi>Fevers,</hi> even <hi>Indians,</hi> broke in upon us, as they have newly done, to lay whole <hi>Counties</hi> desolate, and barba<g ref="char:EOLhyphen"/>rously Butcher more than a <hi>Thousand</hi> of our Inhabitants? If our <hi>Walls</hi> had not been broken down, had worse things than <hi>Indians,</hi> even <hi>Devils,</hi> broke in upon us, as they have sadly done, to Confound us with such <hi>Praeternatural Operations,</hi> as have been the just Astonishment of the World? Worse yet! If our <hi>Walls</hi> had not been broken down, had worse things things than <hi>Devils,</hi> even <hi>Vices,</hi> broke in upon us, as they do a pace, to Complete our horrible Defection from our <hi>First Loves,</hi> and our <hi>First Wayes,</hi> and make us, as the <hi>Degenerate Plant of a Strange Vine before the Lord?</hi> In Truth, We may over our Country utter that Sigh, in Psal. 89. 10. <hi>Lord, Thou hast broken down all its Hedges.</hi>
+            </p>
+            <p>And, <hi>What shall we now do?</hi> The Word of God, by His Prophet <hi>Ezekiel,</hi> shall Direct and Assist our Meditations upon that Important Question; and unto that word, I now call for your <hi>Earnest Heed.</hi>
+            </p>
+            <p>The Name of EZEKIEL, Signifies, <hi>The Fortitude of God;</hi> A Name well be<g ref="char:EOLhyphen"/>seeming
+<pb n="6" facs="tcp:171429:5"/> an Embassadour of Heaven; and, <hi>As was his Name, so was He,</hi> for his becoming <hi>Fortitude,</hi> in his Witnessing for God against an Apostatizing People. One of the Ancients has told us, <hi>That,</hi> he was <hi>Martyred</hi> and <hi>Murdered,</hi> for his Re<g ref="char:EOLhyphen"/>proving of an uncontrouleable Sin, in some of the Rulers: And another of the An<g ref="char:EOLhyphen"/>cients ha's told us <hi>How?</hi> He was Dragg'd upon the Stones, till his Brains were dashed out. A <hi>Proportion</hi> of such usage must be Expected by all that will contend for God, with a due <hi>Fortitude,</hi> and Fidelity.</p>
+            <p>
+               <hi>Jeremiah</hi> and <hi>Ezekiel</hi> were contempo<g ref="char:EOLhyphen"/>taries in several Countrys; and such was their work, that both of them needed the Encouragement of a Contemporary Pro<g ref="char:EOLhyphen"/>phet. Indeed, That a Testimony for God, may be Effectually Delivered and Enter<g ref="char:EOLhyphen"/>tained, there had need be more than <hi>One,</hi> concurring to the <hi>Testimony.</hi> But now <hi>E<g ref="char:EOLhyphen"/>zekiel</hi> seems to be, both more Glorious in his <hi>Visions,</hi> and more Terrible in his <hi>Threa<g ref="char:EOLhyphen"/>tenings,</hi> than <hi>Jeremiah;</hi> and both of those, as well Terrible <hi>Threatenings,</hi> as Glorious <hi>Visions,</hi> do notably Occur, in the Chapter now before us.</p>
+            <p>I Remember, <hi>Nazianzen</hi> calls our <hi>Eze<g ref="char:EOLhyphen"/>kiel, A Beholder of Great things;</hi> but me<g ref="char:EOLunhyphen"/>thinks,
+<pb n="7" facs="tcp:171429:5"/> he is in our Context here, <hi>A Be<g ref="char:EOLhyphen"/>holder of Sad things.</hi> For <hi>Burning Dross in a Furnace,</hi> is here made the Type of the Consuming and Fiery Desolations, that were coming upon a Professing People of God. Referring hereunto, behold an Horrid <hi>Mirrour</hi> here set before us.</p>
+            <p>First, A <hi>Catalogue</hi> of their Sins, is offer<g ref="char:EOLhyphen"/>ed. The <hi>Ordinances</hi> of God were dis<g ref="char:EOLhyphen"/>pised among them, and the <hi>Sabbaths</hi> of God profaned. They were a very <hi>Vn<g ref="char:EOLhyphen"/>governed</hi> sort of People, and much given to <hi>Oppressing</hi> of one another. <hi>Blood<g ref="char:EOLhyphen"/>guiltiness</hi> lay upon the Land; <hi>Adulterous</hi> and <hi>Incestuous,</hi> and most Abominable <hi>Vn<g ref="char:EOLhyphen"/>cleannesses</hi> were Committed in it.</p>
+            <p>Secondly, A <hi>Destruction</hi> for their Sins, is denounced. God would send <hi>Fire,</hi> and <hi>Sword,</hi> and many <hi>Wasting</hi> Afflicti<g ref="char:EOLhyphen"/>ons upon them. They should be <hi>Scat<g ref="char:EOLhyphen"/>tered</hi> as wretched <hi>Captives</hi> in other Countryes. Fearful <hi>Derision</hi> and <hi>In<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my,</hi> should from abroad be heaped up<g ref="char:EOLhyphen"/>on them. And the Lord would withold from them the <hi>Rains</hi> of His Word and Grace, in the <hi>Day of His Indi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ation.</hi>
+            </p>
+            <p>Thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dly, The <hi>Aggravations</hi> attending their Sins, are declared. And what were they?</p>
+            <pb facs="tcp:171429:6"/>
+            <p> One Aggravation of their Sins, was, The Universal <hi>Prevalency</hi> of them. All ranks of men, were sunk into the <hi>Corruption of Manners,</hi> now prevailing. In the <hi>Church,</hi> there were Officers more concerned for their <hi>Livings,</hi> than for the Salvation of <hi>Souls;</hi> and the <hi>Institutions</hi> of God were p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ostituted unto the <hi>Lusts</hi> of men, in <hi>Promiscuous Administations,</hi> which put no <hi>Difference</hi> between the <hi>Holy</hi> and the <hi>Profane.</hi> In the <hi>State,</hi> there were Officers who made a meer <hi>Prey</hi> of the Inhabitants, and had fetched <hi>Blood</hi> in wrongful Exe<g ref="char:EOLhyphen"/>cutions; and <hi>Self</hi> was all they Served. Among the <hi>People of the Land,</hi> there was nothing to be seen but <hi>Injury</hi> and <hi>Vex<g ref="char:EOLhyphen"/>ation</hi> Passing from one unto another. When, <hi>All Flesh</hi> had thus <hi>Corrupted their way,</hi> in pleasing of the <hi>Flesh,</hi> was high time for an Overwhelming <hi>Inundation</hi> of Calamities!</p>
+            <p>Another Aggravation of their Sins, was, The Insensible <hi>Security</hi> in them. That men were very Secure under a most Pe<g ref="char:EOLhyphen"/>rillous Condition of Affairs, is intimated in the <hi>Text</hi> now read unto us. Wherein,</p>
+            <p>
+               <hi>First,</hi> We have the Peoples <hi>Enjoyment.</hi> That was, An <hi>Hedge.</hi> The Hebrew word here notes, A <hi>Wall,</hi> made either of
+<pb facs="tcp:171429:6"/>
+               <hi>Stone</hi> or <hi>Wood.</hi> The Metaphor Signifies, The <hi>Protection</hi> of God, about our Comforts; with a <hi>Defence</hi> and <hi>Shelter</hi> from Innumerable Mis<g ref="char:EOLhyphen"/>chiefs, whereunto, we should, without that <hi>Protection</hi> be Obnoxious, in this <hi>Present Evil World.</hi>
+            </p>
+            <p>
+               <hi>Next,</hi> We have the Peoples <hi>Misery.</hi> That was, A <hi>Gap.</hi> The Hebrew word here notes, A <hi>Breach,</hi> at which Destroying <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> may make their Entrance. The Me<g ref="char:EOLhyphen"/>taphor Signifies, An <hi>Obnoxiousness</hi> to wretch<g ref="char:EOLhyphen"/>ed circumstances, by Sin forfeiting the <hi>Pro<g ref="char:EOLhyphen"/>tection</hi> of God; with a <hi>Loss</hi> of those things wherein we have that <hi>Protection.</hi>
+            </p>
+            <p>
+               <hi>Lastly,</hi> We have the <hi>Expectation</hi> of our God concerning such a People. He sayes, <hi>I Sought for a man, that should make up the Hedge, and stand in the Gap.</hi> It intimates, Not only that <hi>Some One</hi> at least, ought then to have Appeared, by his Pious Interpositions to have diverced the Wrath of God, but also that the Appearance of <hi>One</hi> might have done <hi>Something</hi> towards the Diversion of that Wrath.</p>
+            <p>So then, there is a most Solemn and Weighty CASE; indeed, the <hi>more</hi> So<g ref="char:EOLhyphen"/>lemn and Weighty, because it is, OUR OWN, <hi>Case:</hi> where-with I am now to Entertain you.</p>
+            <div type="advice">
+               <pb facs="tcp:171429:7"/>
+               <head>The CASE.</head>
+               <p>
+                  <hi>What is to be done, when the Sins of a People, have made a <hi>Ga<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> in their <hi>Hedge,</hi> and caused them to Loose the <hi>Protecting Pre<g ref="char:EOLhyphen"/>sence</hi> of God?</hi>
+               </p>
+               <p>Or,</p>
+               <p>
+                  <hi>What is to be done, to keep off <hi>Ruines,</hi> from a People, that by their Sins, have brought themselves into <hi>Dangers</hi> to be Ruined?</hi>
+               </p>
+               <p>That is,</p>
+               <p>What have <hi>WE</hi> to do at this Day, for the Retrieving of <hi>OUR OWN</hi> Un<g ref="char:EOLhyphen"/>happinesses?</p>
+               <p>Having advised You, That our <hi>Hedg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> lies in those things, wherein we have th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Protecting Presence of God;</hi> and that ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Gap</hi> lies in our <hi>Bereavement</hi> of those thing<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> wherein we have that <hi>Protecting Presence;</hi> I hope it will be no, <hi>Untempered Morta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> daubed upon a Broken Wall,</hi> if I lay Five Counsils this Day before you.</p>
+               <p n="1">
+                  <hi>I.</hi> What <hi>is to be done?</hi> Let <hi>Every man</hi> most penitently Enquire and Bewayl, what he <hi>Hath done,</hi> towards making a <hi>Gap</hi> in our <hi>Hedge?</hi> When the People had laid <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+                  <pb facs="tcp:171429:7"/>
+                  <pb facs="tcp:171429:8"/>
+                  <pb facs="tcp:171429:8"/> of Heaven, to give some Singular <hi>Emba<g ref="char:EOLunhyphen"/>rassment</hi> unto our Affairs; whereby our <hi>Lusts</hi> have been Excited and Exerted, and our <hi>Minds</hi> have been thrown into the Dis<g ref="char:EOLhyphen"/>order from whence comes <hi>Every evil Work.</hi>
+               </p>
+               <p>What a Day of <hi>Temptation,</hi> was it, when a Flood of <hi>Antin<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mian</hi> and <hi>Familisti<g ref="char:EOLhyphen"/>cal <hi>Opinions,</hi>
+                  </hi> cast out by the <hi>Dragon,</hi> had like to have Swallowed up the Church <hi>Fled into this Desart,</hi> in its <hi>Infancy:</hi> and a Factions <hi>Distinction</hi> made between, <hi>Men under a Covenant of Works,</hi> and <hi>Men under a Cove<g ref="char:EOLhyphen"/>nant of Grace,</hi> as it were by some <hi>Enchant<g ref="char:EOLhyphen"/>ment,</hi> insinuated it self into all our Concern<g ref="char:EOLhyphen"/>ments, to the producing of <hi>Works</hi> wherein there was little enough of <hi>Grace</hi> discovered?</p>
+               <p>What a Day of <hi>Temptation,</hi> was it, when the Controversy about the Extent of <hi>Baptism,</hi> and of <hi>Church Watch,</hi> was in its warmest Agitation; and Scandalous Divisions thereupon arose between <hi>Synodali<g ref="char:EOLhyphen"/>ans</hi> and <hi>Antisynodists:</hi> Wherein we hav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been too <hi>like,</hi> and it may be too <hi>unlike Ch<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dren,</hi> while we have been contending abo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Covenant of our <hi>Children?</hi>
+               </p>
+               <p>What a <hi>Day</hi> [shall I say, or <hi>Night]</hi> o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Temptation,</hi> have we seen, when the <hi>E<g ref="char:EOLhyphen"/>vil Angels</hi> were let loose upon us, dreadful<g ref="char:EOLhyphen"/>ly to Annoy our Neighbourhood, not only
+<pb facs="tcp:171429:9"/>
+                  <pb facs="tcp:171429:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:171429:10"/>
+                  <pb facs="tcp:171429:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:171429:11"/> with Tormenting <hi>Afflictions,</hi> but als<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with unheard of <hi>Delusions;</hi> and cause u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to buffet one another in as <hi>Dark</hi> a Time as <hi>that</hi> which once Distressed <hi>Egypt</hi> for <hi>thre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Dayes</hi> together?</p>
+               <p>Have we not had our Successive Daye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>Tempration,</hi> relating to the posture o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> things in the <hi>Common Wealth?</hi> Some<g ref="char:EOLunhyphen"/>times, The contestations about the <hi>Nega<g ref="char:EOLunhyphen"/>tive,</hi> have made us too nigh the <hi>Denying</hi> o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Reason to one another. Sometimes th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> measures of <hi>Compliance</hi> with Demand<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from the other side of the <hi>Water,</hi> have O<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>casioned those <hi>Heats</hi> among us, which w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cannot justify. The <hi>Vnsettlements</hi> th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> we have had since the <hi>Revolution,</hi> have the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not rendred us, like the <hi>Sea, which cann<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> rest, whose Waters cast up Mire &amp; Mud?</hi> An<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> how many Dayes of <hi>Temptation</hi> hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> been Successively in this and that <hi>Plantati<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> of our <hi>Wilderness?</hi> One while, the Rebuil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing and Removing of <hi>Meeting-house<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> ha's unfitted the Neighbours, for <hi>Lifting</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>pure Hands without Wrath</hi> together in tho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Houses. One while the Enclosing of <hi>Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mons,</hi> hath made Neighbours, that shoul<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have been like <hi>Sheep,</hi> to <hi>Bite and devour o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> another.</hi> One while, the Disposal of litt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> matters, in our <hi>Militia,</hi> ha's made us e'<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:171429:11"/> ready to fall upon one another with <hi>Force of Arms.</hi> I might add; There Scarce ever was any <hi>One Great Man</hi> Engaged much in the Service of this People, but the Peo<g ref="char:EOLhyphen"/>ple have at some time or other, made it an Extraordinary <hi>Day of Temptation</hi> for that man. And sometimes, little <hi>Piques</hi> be<g ref="char:EOLhyphen"/>tween some <hi>Leading men</hi> in a place, have <hi>mislead</hi> all the Neighbours far and near into most unaccountable <hi>Party-making.</hi> Alas, How many <hi>Massahs,</hi> and <hi>Meribahs,</hi> have we had in our <hi>Wilderness!</hi>
+               </p>
+               <p>But, Little do we think, how much these Dayes of <hi>Temptation,</hi> have been Dayes of <hi>Provocation,</hi> before the Lord. They have been Dayes, wherein all sorts of men, have too much abandoned the conduct of that <hi>Good Spirit,</hi> which would <hi>Lead us into the Land of Uprightness,</hi> and Gratify'd that <hi>Evil Spirit,</hi> which is all for <hi>Envying,</hi> for <hi>Slander<g ref="char:EOLhyphen"/>ing,</hi> for all the Expressions of <hi>Uncharitable<g ref="char:EOLhyphen"/>ness. Who can throughly understand the Errors,</hi> which he ha's committed, when he ha's been <hi>Devil-driven?</hi> Or, which is all one, when he ha's been <hi>Passion-driven,</hi> been <hi>Ma<g ref="char:EOLhyphen"/>lice driven;</hi> Yea, or <hi>Self-driven,</hi> or, indeed, but left unto <hi>Himself?</hi> Let us all then Re<g ref="char:EOLhyphen"/>flect upon our own Behaviours in such Dayes of our <hi>Fiery Trials;</hi> in such bitter
+<pb n="16" facs="tcp:171429:12"/> burning <hi>Parexysms;</hi> and let us every where Abase our selves before God and Man, for the <hi>wrongs</hi> we have done to our <hi>Hedge</hi> in those <hi>Evil Dayes.</hi>
+               </p>
+               <p>When a man ha's ventured upon the Doing of any thing, that is not according to the Known Rules of <hi>Piety,</hi> and of <hi>Ch<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rity,</hi> it may be said of him, as in Eccl. 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>He break<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> an Hedge, and a Serpent shall Bite him.</hi> 'Tis by breaking the <hi>Hedge</hi> of Gods Commandments, that we lay our selves open, for <hi>Serpents,</hi> to come in, and Crawl and Coyl about us, and for many <hi>Troubles</hi> to fasten their direful Stings upon us. We have <hi>All</hi> done so; and therefore, if we would not our selves retain too much of the <hi>Serpent</hi> in us, Let us take that Coun<g ref="char:EOLhyphen"/>sil, in Lam. 3. 40. <hi>Let us Search and Try our Wayes, and Turn again unto the Lord.</hi> Oh! What an Humbling Thought should this be, to any man of Ingenuity, <hi>I am the man, that have done Harm to the Hedge of my Country: my Sins have had their Shares in laying open my Country to the Displeasure of God!</hi> And there is this to be said for the Enforcing of this Humbling Thought; <hi>If any man do Imagine that none of his Transgressions have done any thing towards the Incommoding of the Com<g ref="char:EOLunhyphen"/>mon Hedge, I do, in the Name of the Great</hi>
+                  <pb n="17" facs="tcp:171429:12"/>
+                  <hi>God, Arrest That man, for one of the Principal, in the Trespass, which ha's been Committed;</hi> I say, THOU art the man!</p>
+               <p n="2">
+                  <hi>II.</hi> If we do not <hi>make much</hi> of our <hi>Hedge,</hi> we shall do <hi>Nothing</hi> to <hi>make up</hi> any <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in our <hi>Hedge:</hi> Werefore let us have a Great <hi>Concern,</hi> and an High <hi>Val<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> for those things, which Cover us from <hi>Invasions.</hi> As <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>here are Thousands of Saints in this Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ry, who have such an Angelical Guard, a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>out them, that what we find spoken of <hi>Job,</hi> is to be spoken of <hi>Them,</hi> in <hi>Job</hi> 1. 10. <hi>Hast thou not made an Hedge about him?</hi> So <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he whole Country it self ha's been under <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hose Dispensations of God, which have, made that Account proper to be given of us, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n Math. 21. 33. <hi>There was a certain Housholder, which Planted a Vineyard, and Hedged it round <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bout.</hi> Unto what Ruines had we lain o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en, if our God had not <hi>Hedged</hi> us, with at <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>east, a Treble Muniment? Now that which I say is, Let us count this Three-fold <hi>Hedge,</hi> worth our Thanks, worth our Cares, worth our most Expensive Reparations!</p>
+               <p>First, A <hi>Good Government,</hi> ha's been <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>Hedge</hi> of our Land. No Persecutions <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>id Incommode our <hi>Civil,</hi> or our <hi>Sacred</hi> En<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yments, while we had a Royal CHAR<g ref="char:EOLhyphen"/>TER,
+<pb n="16" facs="tcp:171429:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:171429:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:171429:14"/> to be an <hi>Hedge</hi> about those Enjo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ments: and we could Successively, in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> one Colony Elect no less than <hi>Seven</hi> Go<g ref="char:EOLunhyphen"/>vernours, and our Brethren of the Elde Colony now Incorporated with us coul<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Elect no less than <hi>Four</hi> such Governours, which were so many <hi>Nehemiahs, Men seek<g ref="char:EOLhyphen"/>ing the Welfare of the Children of New-England;</hi> with choice Numbers of <hi>Assistants</hi> annually chosen to be, <hi>The Shields of our Earth.</hi> Whe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that <hi>Hedge</hi> was broken down, we hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> so far seen it made up again, as it is thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Day. Though Indefatigable <hi>Intercession</hi> with Heaven and Earth, and some years o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Sisyphaean</hi> Labour, Employ'd by such a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> have arrived unto us with ample Testimo<g ref="char:EOLhyphen"/>nials of having Acted for us, with <hi>An Inv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>late Integrity, an Excellent Prudence, and a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> unfainting Industry,</hi> have not procured us ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Former <hi>Hedge,</hi> in all things, just as it was yet you happily see what is obtained, in a<g ref="char:EOLunhyphen"/>nother CHARTER for us: An <hi>Hedge</hi> wereby all <hi>Christian</hi> Liberties, and all <hi>Eng<g ref="char:EOLunhyphen"/>lish</hi> Liberties, are Secured unto us; A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Hedge,</hi> whereby our <hi>Titles</hi> to our propertie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and possessions, once questioned, are at onc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Confirmed, beyond the Reach of all <hi>Intr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ders;</hi> An <hi>Hedge,</hi> through which n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Judges,</hi> no <hi>Councellou<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> no <hi>Justices,</hi> or <hi>Sh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>riffs,</hi>
+                  <pb n="19" facs="tcp:171429:14"/> can be Arbitrarily Imposed upon us and in this our <hi>Hedge,</hi> we have a <hi>Negative</hi> upon our <hi>Governours,</hi> beyond the rest of our Nation abroad. There is in these things yet, an <hi>Hedge</hi> about us, in respect whereof, we are <hi>Known above all the Families of the Earth.</hi>
+               </p>
+               <p>Well; Is there any <hi>Unfinished,</hi> or <hi>Undesi<g ref="char:EOLhyphen"/>red</hi> part, yet left in this <hi>Hedge?</hi> To <hi>Prize</hi> what we have, is the way for us to <hi>Gain</hi> what we have not. <hi>Unthankfulness</hi> to God and the King, will but bring upon us the Fate of Hypocrites, <hi>To have, even what we seem to have, Taken away.</hi> If We shall reckon, that the maturest and liveliest Consultations, are too painful Things, to keep up such an <hi>Hedge,</hi> I shall take leave to say, I believe, There is not, besides <hi>Us,</hi> that People upon the face of the whole Earth, which would be of <hi>Our</hi> Opinion. But besides all of <hi>those</hi> Endeavours, our Anniversary Endeavours, for the Fixing of <hi>Good Stakes</hi> in such an <hi>Hedge,</hi> are also called for; <hi>Good Stakes,</hi> I say, for which we have this Encouraging Advantage, that when once <hi>in,</hi> they cannot without the concurrence of our <hi>own Hands,</hi> be plucked <hi>up.</hi>
+               </p>
+               <p>Secondly, A <hi>Good Ministry,</hi> ha's been the <hi>Hedge</hi> of our Land. <hi>At</hi> and <hi>For</hi> our
+<pb n="20" facs="tcp:171429:15"/> first Settlement, there came over the <hi>Atlan<g ref="char:EOLunhyphen"/>tick</hi> Ocean, <hi>Seventy Seven</hi> Orthodox, Pious, Able Ministers, in the Actual Ser<g ref="char:EOLhyphen"/>vice of the Churches; besides, <hi>Twice Seven</hi> more, Candidates in Divinity, who quickly after were <hi>thrust forth as Labourers, in the Harvest of the Lord:</hi> by which won<g ref="char:EOLhyphen"/>derful <hi>Secession,</hi> there were not known to be left so many <hi>Non-conformist</hi> Ministers in <hi>England,</hi> when the Dismal <hi>Civil Wars</hi> begun, as there were Counties in the Kingdom. And what an <hi>Hedge</hi> have we had in those Eminent <hi>Men of God?</hi> As they were the <hi>Chariots,</hi> and the <hi>Horse-men,</hi> so, they were the <hi>Hedge,</hi> of our <hi>Israel!</hi> It was especially by being <hi>Israels,</hi> or men who had <hi>Power</hi> in <hi>Wrestling</hi> with God, that they were <hi>so.</hi> It was foretold, and what was foretold was fulfill'd, concerning some of them, <hi>That a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> long as they Lived,</hi> New-England <hi>should b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> preserved from any General Desolations.</hi> Thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Peerless <hi>Hedge,</hi> ha's been, <hi>all,</hi> saving two or three of the Second Lesser <hi>Classis,</hi> taken away; the <hi>Hedge</hi> ha's been Transplante<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> into the upper <hi>Eden</hi> of God. And let som<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Shamefully <hi>Paganizing</hi> Villages in our Bo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ders now intimate unto us, what woful I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> roads of Ignorance, of Wickedness, of Ba<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>barity, had we now Suffered, if our God
+<pb n="21" facs="tcp:171429:15"/> had not supplied us, with a Blessed <hi>Nursery</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or the Renovation of our <hi>Hedge?</hi> We have a Well Governed COLLEDGE, from whence there have issued, it may be, up<g ref="char:EOLhyphen"/>wards of <hi>Two-Hundred</hi> Preachers, to <hi>make Glad the City of God:</hi> Yea, many <hi>Plants of Renown</hi> have been raised in this our <hi>Hedge.</hi> And whereas there are Perhaps, about an <hi>Hundred and Ten</hi> Christian Con<g ref="char:EOLhyphen"/>gregations in this Wilderness, there is hard<g ref="char:EOLhyphen"/>ly <hi>One Score</hi> of them, that are not at this Day Instructed, by Teachers, which this <hi>Colledge</hi> ha's afforded unto them. Unhap<g ref="char:EOLhyphen"/>py, and <hi>Unhedged</hi> We, if at last, we should have no <hi>Pastors</hi> any better than sorry <hi>Hedge-Priests,</hi> to Entrust with the care of our Souls! Or, if we should come to say, <hi>To what pur<g ref="char:EOLhyphen"/>pose is this Wast?</hi> upon all that should go to keep alive the Schools of <hi>New-England,</hi> while our Neighbours in <hi>Virginia</hi> are using their Laudable and Liberal Essayes to Erect an <hi>University!</hi>
+               </p>
+               <p>Well; Would we have this <hi>Hedge</hi> men<g ref="char:EOLhyphen"/>tained? It is a <hi>Quick-sett Hedge;</hi> and it must not be Sapped, it must not be Starved, there must not be <hi>witheld from it, more than is meet;</hi> nor may we think, that it can mentain it self. Would we not have all sorts of Soul destroyers to become ram<g ref="char:EOLhyphen"/>pant
+<pb n="22" facs="tcp:171429:16"/> among us? This is the <hi>Hedge</hi> tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> must keep them out! If we would hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> our, <hi>Little Flocks guarded against grievo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Wolves,</hi> they are not severe Laws agains<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Haeretical Pravities,</hi> but it it a Learned, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Holy, and a Countenanced Ministry tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> must be our <hi>Hedge.</hi> And of this matter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> speak the more anxiously, because as I hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> heretofore most Publickly declared, eve<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when things were more quiet this way, tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> it seems, they now begin to be, within<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> few Miles of us, I am verily perswaded That when-ever we shall come to have Little more of <hi>Rest,</hi> from those mischief of <hi>War,</hi> and <hi>Fear,</hi> which now Embroil us we shall have some Storm of <hi>Heresies</hi> ter<g ref="char:EOLunhyphen"/>ribly threatning to sink our most <hi>Holy Faith</hi> Methinks, I feel the Breeding, I see th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Gathering, of such a <hi>Storm,</hi> in some thing not now to be insisted on. Remember,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beseech you, the Humble <hi>Praemonitions,</hi> which have this Day, been given unto you, Tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> upon a Moral Prognostication, poor <hi>New England</hi> will much of it be Swallowed up i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Haeresy,</hi> and much in <hi>Atheism,</hi> within a littl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> while, if we are not in good Earnest abou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sufficiently Supporting, a <hi>Sufficient Ministry</hi> as our <hi>Hedge,</hi> when <hi>the Blast of the Terribl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> One, is as a Storm against the Wall.</hi>
+               </p>
+               <pb n="23" facs="tcp:171429:16"/>
+               <p> Thirdly; A Good <hi>Church-Discipline,</hi> is an <hi>Hedge</hi> of our God about us. Tis the Compellation of the <hi>Catholick Church,</hi> in Cant. 8. 13. <hi>Thou which dwellest in the Gar<g ref="char:EOLhyphen"/>dens.</hi> Particular <hi>Churches</hi> are those <hi>Gardens</hi> of the Lord. And hence the French-Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>estants when they have been going to their <hi>Church-Meetings,</hi> have some times very agree<g ref="char:EOLhyphen"/>ably used that Form of Speech, <hi>Let us go to Paradise.</hi> We have a Country full of <hi>Gar<g ref="char:EOLhyphen"/>dens;</hi> but, what <hi>Hedge,</hi> I Pray, about them? Our <hi>Discipline</hi> is our <hi>Hedge;</hi> a <hi>Discipline,</hi> Detaining, Debarring, Secluding from <hi>Ec<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lesiastical Priviledges,</hi> those who in <hi>Works Deny God,</hi> though <hi>in words</hi> they may <hi>Profess <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hat they know Him;</hi> a <hi>Discipline</hi> which in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> way of <hi>Just Proceeding,</hi> shall either Keep out, or Throw out, the <hi>Roots of Bitterness,</hi> whereby <hi>many would be defiled.</hi> All that ha's a <hi>Tendency</hi> to make our Churches, no <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>onger, the Actual and Lively Pourtraitures <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f <hi>Heaven,</hi> Representing to the World, <hi>Who shall Ascend into the Hill of the Lord, and who shall stand in His Holy Place forever;</hi> it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a's a Tendency to pull down our <hi>Hedge. Wisdom</hi> it self, ha's branded the <hi>Folly</hi> of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hem that <hi>Pull down their House with their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>wn Hands:</hi> for us to part with our <hi>Church Discipline,</hi> would be <hi>with our own Hands, to</hi>
+                  <pb n="24" facs="tcp:171429:17"/>
+                  <hi>Pull down an Hedge,</hi> which cost our <hi>Fath<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> What a Toylsome Husbandry! We ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> long since, by our Ascended Lord, been fa<g ref="char:EOLunhyphen"/>voured, with a <hi>Plat-form</hi> of such a <hi>Discipline;</hi> whereof those Reverend Persons, of the <hi>Presbyterian</hi> Perswasion, who Published their <hi>Jus Divinum,</hi> about Forty years ago, do say, <hi>That they Agreed with the Things of the greatest Concernment in it; and that those things wherein they differed from it, were of lesser Conse<g ref="char:EOLhyphen"/>quence; whereof their Debates were not</hi> (Con<g ref="char:EOLhyphen"/>tentiones) <hi>Contentions, but</hi> (Collationes) <hi>Conferences.</hi> A <hi>Discipline,</hi> Securing the Rights of Particular Churches, as to the power of <hi>Self Reformation;</hi> A <hi>Discipline,</hi> allowing a just Regard unto <hi>Councils</hi> upon Difficult E<g ref="char:EOLhyphen"/>mergencies; A <hi>Discipline,</hi> Admitting no Vi<g ref="char:EOLhyphen"/>sible Unregenerates, unto those <hi>Tremendous Mysteries,</hi> our <hi>Sacraments;</hi> This is that <hi>Hedge,</hi> which will be our <hi>Glory;</hi> and as long as we have this <hi>Glory,</hi> we shall have a <hi>Defence on,</hi> as well as <hi>in,</hi> the <hi>Glory.</hi>
+               </p>
+               <p>Behold, Another <hi>Hedge,</hi> which we should Esteem too Considerable to be Deserted<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Indeed, I am far from Imagining, <hi>That our Works are perfect before God;</hi> I am far from Imagining, <hi>That being Increased in Good Things, we have Need of Nothing.</hi> Doubtless, we have our <hi>Deficiencies,</hi> in sundry points, that
+<pb n="25" facs="tcp:171429:17"/> want either to be <hi>Corrected</hi> or <hi>Improved.</hi> Nevertheless, I am glad, That before my Stepping over into that World, which I am <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ow waiting for, I have this Opportunity, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o declare among you; If our <hi>Scriptural Church-Discipline,</hi> or the <hi>Essentials</hi> and <hi>Substantials</hi> of our <hi>Church-Discipline,</hi> once <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ome to be Sacrificed unto the Corruptions of This World, our <hi>Hedge</hi> is gone; we may <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>igh, <hi>Ichabod, Where is the Glory?</hi> Whatever <hi>Wall</hi> shall be left unto us, will be, <hi>A Wall with a Leprosy in it;</hi> and a <hi>Leprosy,</hi> like that, which ha's been so rivetted into the <hi>Walls</hi> of the <hi>Europaean Christendome,</hi> that our Eter<g ref="char:EOLhyphen"/>nal <hi>High-Priest,</hi> will see it needful to <hi>tak<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll down,</hi> e're it be quite gotten out!</p>
+               <p>This is our <hi>Hedge,</hi> and this to be the <hi>Regard</hi> of our <hi>Hedge.</hi>
+               </p>
+               <p n="3">
+                  <hi>III. What shall we do,</hi> when a <hi>Gap</hi> is made in our <hi>Hedge?</hi> Mind, See, Shun the <hi>Things, that make the Gap;</hi> When <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hose</hi> things are Understood and Avoided, our <hi>Hedge,</hi> will still be Flourishing.</p>
+               <p>But what things are they, that lay us o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en to many <hi>Ruines?</hi> In one Word, our <hi>Sins;</hi> our Sins against our Heavenly <hi>Keeper.</hi> It is our not keeping within <hi>His Hedge,</hi> that is chastised with His not keep<g ref="char:EOLhyphen"/>ing
+<pb n="26" facs="tcp:171429:18"/> up of <hi>Ours.</hi> What things are they tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> compose our <hi>Hedge?</hi> Not our <hi>Castles,</hi> no our <hi>Frigats,</hi> not our <hi>Numbers;</hi> 'tis said, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Prov. 18. 11. <hi>The Rich mans Wealth is<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> H<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh Wall in his own Conceit;</hi> and it is b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in <hi>Conceit!</hi> No 'tis the <hi>Favour</hi> of Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which gives us, as our <hi>Shield,</hi> so our <hi>Hedg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> So then, our <hi>Hedge</hi> is demolished, by an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thing, by every thing, that shall with dra<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from us, the <hi>Favour</hi> of our God: and the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is no such mischievous Thing, but our <hi>S<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> against Him. We are sometimes ready t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Expostulate with our God, as in Psal 80. 1<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Why hast Thou broken down our Hedges?</hi> B<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> He may Reply upon us, as in Jer. 2. 17. <hi>Ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thou not procured This unto thy self, in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thou hast forsaken the Lord thy God?</hi> Or<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in Jer. 4. 18. <hi>Thy way and thy Doings have pr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cured these things unto thee; this is thy wicked<g ref="char:EOLunhyphen"/>ness.</hi>
+               </p>
+               <p>There are <hi>Some Sins</hi> that <hi>Naturally</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Necessarily</hi> prejudice our <hi>Hedge;</hi> those are the <hi>Ill Vsages</hi> of them, that God ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> most eminently placed there. We fin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> concerning our Dayes, in 2 Tim. 3. 1, 2. <hi>P<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rillous Times shall come,</hi> and men shall wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Good <hi>Hedges</hi> about them, to keep off De<g ref="char:EOLunhyphen"/>stroying Injuries; why so? For, <hi>Men sha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> be Unthankful.</hi> Ingratitude unto useful <hi>Ga<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+                  <pb n="27" facs="tcp:171429:18"/>
+                  <hi>men,</hi> leaves a People, <hi>Friendless,</hi> and that is to be <hi>Hedge-less</hi> within a little while. The <hi>Benefactors</hi> of an Ungrateful and Re<g ref="char:EOLhyphen"/>prochful Generation, do at last frequently grow weary of <hi>Serving their Generation,</hi> and Resolve, <hi>I will not be an Healer, or an Hedger to such a People!</hi> Such a People will at <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ength see, that the Vengeance of God, will deprive them of almost all their Accomplish<g ref="char:EOLhyphen"/>ed men, in all orders; and as for the Few that shall be left, either by some <hi>Enchant<g ref="char:EOLhyphen"/>ment</hi> there shall be an Incureable Aliena<g ref="char:EOLhyphen"/>tion between <hi>Them</hi> and their People; or else they will be under <hi>Invincible Discourage<g ref="char:EOLhyphen"/>ments</hi> to do any more for a People, who when they have done their best, will but Revile them for it. What if there should any where be a Country of professed <hi>Chris<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ians,</hi> among whom, not only Neglect but Cruel Hatred and Slander shall be the cer<g ref="char:EOLhyphen"/>tain <hi>Country-Pay,</hi> of every <hi>Publick Ser<g ref="char:EOLhyphen"/>vant;</hi> and among whom it shall be ob<g ref="char:EOLhyphen"/>served, <hi>That no man, though the Holiest and Exactest Liver in the World, shall preserve a Good Name, after he ha's been a</hi> Publick Ser<g ref="char:EOLhyphen"/>vant! I beseech you, what censure would the true <hi>Spirit of Christianity</hi> pas, upon such a Country? It is by the <hi>Pagans</hi> themselves, mentioned as the Brand upon <hi>Old Egypt,</hi> It
+<pb n="28" facs="tcp:171429:19"/> was, <hi>Loquax et Ingeniosa, in Contumeliam Pre<g ref="char:EOLunhyphen"/>fectorum provincia; si quis fortè vitave<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> culpam, Contumeliam non effugit:</hi> In plain<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>New-English,</hi> It was a <hi>Province</hi> out of me<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sure Talkative and Ingenious, for the Vilif<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing of its <hi>Publick Servants;</hi> let a man be n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ver so free from <hi>Fault,</hi> he should not sca<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> free of <hi>Blame,</hi> among them. I now d<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mand, what <hi>Men,</hi> that were not more tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Men,</hi> would offer to stand in the <hi>Hedge,</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> such a Nation? And yet if our <hi>Hedge</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not made of <hi>Men,</hi> we have none at all. O<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> what were like to become of a Peopl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when once there are those Complaints day<g ref="char:EOLunhyphen"/>ly made, in the Ears, of <hi>the Lord God of S<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>baoth,</hi> against them, from one Person, <hi>I hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Exposed my Life in the High Places of the Fiel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> for this People, but they injuriously Defraud<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of my wages!</hi> From another Person, <hi>I hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> almost undone my Family to Serve this People<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> home and abroad, but they take little notice<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> it!</hi> From a Third Person, <hi>Day and Nigh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> have seen, Heaven and Earth have known, ho<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> faithfully I have Laboured many years to d<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> this People Good, and yet they do nothing b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Stone me for it!</hi> Never did a Congregation in a Wilderness, abuse their <hi>Moses's,</hi> bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they direfully broke their <hi>Hedges</hi> by doin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of it.</p>
+               <pb n="29" facs="tcp:171429:19"/>
+               <p> But <hi>All Sins</hi> do this Damage, <hi>Morally</hi> and <hi>Meritoriously.</hi> Our <hi>Sins</hi> are those <hi>Ac<g ref="char:EOLhyphen"/>cursed Things,</hi> which by producing of <hi>Breach<g ref="char:EOLhyphen"/>es</hi> in our <hi>Hedge,</hi> do prove the <hi>Troublers</hi> of our <hi>Land.</hi> Would we have our <hi>Wall</hi> un<g ref="char:EOLhyphen"/>disturbed? There are then certain <hi>Heads,</hi> I mean <hi>Hearts,</hi> to be thrown over our <hi>Wall;</hi> briefly, Forego, and Cast off our <hi>Sins</hi> which do <hi>Separate,</hi> as with an <hi>High-Wall</hi> between God and us.</p>
+               <p>Especially, those things which do more grossly <hi>Pollute</hi> the Land, most greatly <hi>Ex<g ref="char:EOLhyphen"/>pose</hi> it. Mark it, I pray; when the <hi>Good Spirit</hi> of God, goes away from a People, so as to <hi>Influence</hi> them no more by His Holy Motions, but <hi>Abandon</hi> them to the wayes of their own Hearts, He makes a Broad <hi>Gap</hi> in the <hi>Hedge,</hi> at His Going. Now this Harm is done, by more Intolerable <hi>Defile<g ref="char:EOLhyphen"/>ments</hi> indulged among a People; They drive the <hi>Good Spirit</hi> of God away from a<g ref="char:EOLhyphen"/>mong them, who sayes, <hi>Wo to them, when I depart from them!</hi>
+               </p>
+               <p>I am sure that <hi>Sorceries</hi> familiarly practised among a People will wound their <hi>Hedge</hi> inexpressibly. It ha's been Enquired, <hi>How so many People came to be Possessed by the Devil, about the Time of our Lords Incarnation?</hi> Truly, 'twas not meerly because an A ping <hi>Satan</hi>
+                  <pb n="30" facs="tcp:171429:20"/> would be more <hi>manifest in the Flesh,</hi> when there was going to be <hi>God manifest in the Flesh;</hi> but Learned men have told us, that horrid <hi>Sorceries</hi> usually practised among the Jews, were the Things that broke the <hi>Hedge</hi> about them, and let in the <hi>Devils</hi> to Worry them amazingly. Monstrous the Stories, in the <hi>Talmuds</hi> hereabout! I will not now recite them; only say, If Idle <hi>Fortune-tellers,</hi> and they that by unlawful Arts, do seek after the <hi>Forbidden Knowledge</hi> of <hi>Secret</hi> and <hi>Future</hi> things, are countenanc<g ref="char:EOLhyphen"/>ed among a People, or Impious <hi>Almanacks</hi> come to be therefore of more Credit per<g ref="char:EOLhyphen"/>haps, than the Infallible <hi>Praedictions</hi> of the Scriptures among them: The Grieved <hi>Spirit</hi> of God will soon leave the <hi>Hedge</hi> for <hi>Evil Spirits</hi> to get in, as they please, upon them.</p>
+               <p>It is also particularly noted, concerning <hi>Incestuous Abominations,</hi> in Lev. 18. 25. <hi>The Land is thereby Defiled, and it Vomits out her Inhabitants;</hi> you may be sure, Through some formidable <hi>Gap!</hi> There are <hi>Bruitish</hi> men in these dayes, who object, <hi>What are we concerned in the Restraints. of Marriage, by the Laws of Leviticus?</hi> I Ans<g ref="char:EOLhyphen"/>wer, We are obliged by those Laws, to mentain the Good Order which God ha's Established in Humane Society by those
+<pb n="31" facs="tcp:171429:20"/> Laws; and the <hi>Light of Nature,</hi> in mankind, as now Increased, abundantly testifies there<g ref="char:EOLhyphen"/>unto: By the same Token, That the Viola<g ref="char:EOLhyphen"/>tion of those Laws, is declared one of those things for which the <hi>Ancient Canaanites were spued out of the Land.</hi> Wherefore, when <hi>Adultery,</hi> yea, when <hi>Polygamy,</hi> shall show its face in a Land, and there be no Ex<g ref="char:EOLhyphen"/>emplary punishments ordered for the filthy Malefactors; and yet more, when wicked men shall Unite themselves unto the <hi>Sisters</hi> of their Deceased Wives, or unto the <hi>Daugh<g ref="char:EOLhyphen"/>ters</hi> of those Sisters; and when men shall venture to Espouse, within those Degrees of <hi>Consanguinity</hi> to their Departed <hi>Wives,</hi> and so, of <hi>Affinity</hi> to themselves, wherein they would be afraid of Touching their own <hi>Consanguines;</hi> but most of all, when men shall be so forsaken of <hi>Humanitie,</hi> as openly to <hi>Plead</hi> for such Enormities; fearfully <hi>De<g ref="char:EOLhyphen"/>filed</hi> is that Land. There is no other <hi>Hedge,</hi> when men will not be <hi>Hedged</hi> up from such Defilements.</p>
+               <p>Again, Upon a Sinful Return to <hi>Dain Customes,</hi> from whence God ha's Requi<g ref="char:EOLhyphen"/>red and Begun a Separation, 'tis noted, in Exod. 32. 25. <hi>A Church in a Wilderness were made Naked, unto their Shame, amongst their Enemies;</hi> there was a <hi>Gap,</hi> through which
+<pb n="32" facs="tcp:171429:21"/>
+                  <hi>their Enemies</hi> might come at them. Sup<g ref="char:EOLhyphen"/>pose that God ha's been by Great Wonders bringing a People into a <hi>Wilderness,</hi> that so He might <hi>Reform</hi> them, and Reclame them from all the Ill Effects of a Superstitious E<g ref="char:EOLhyphen"/>ducation: He then sayes of Them, <hi>This People have I formed for my self!</hi> and if they <hi>Show forth His Praise,</hi> they shall also be <hi>Fenced</hi> by Himself; He sayes of them, <hi>Thes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> are to be a Peculiar People!</hi> and if they be <hi>Zealous of Good Works,</hi> He will be so long <hi>Zealous</hi> for their Welfare. But if once they go back to those Unwarrantable <hi>Superstitions,</hi> which they had formerly escaped, you see, they become <hi>Naked</hi> presently. They shall be no longer <hi>Hedged,</hi> by the Distinguishing Tutelage of Heaven, when the <hi>Hedge,</hi> of Loyalty to the pure Institutions of the Blessed Jesus, which distinguished <hi>them</hi> from others, is laid aside.</p>
+               <p>Shall I say further! An <hi>Hedge</hi> may be <hi>Washed</hi> away. May not all the <hi>Banks</hi> of a Country, be washed away, by a <hi>Flood</hi> of <hi>Strong Drink?</hi> Yea, And some think, it will be well, if many of <hi>ours</hi> ere long be not so. The way of <hi>Tipling at the Tavern,</hi> begins to overturn all sorts of Good Order, in many Towns among us; and to <hi>Drown</hi> both Religion, and Civility. A Flood of
+<pb n="33" facs="tcp:171429:21"/>
+                  <hi>Impiety,</hi> both among <hi>English</hi> and <hi>Indians,</hi> yea, and of <hi>Bloodguiltiness</hi> too, ha's been let in upon us, through this way of Sinning. Shall I say more? Twould be ill indeed if the <hi>Rhum-Bottle,</hi> should come to render any that are in a Publick Capacity, uncapable of Acting with a due Application for the Pub<g ref="char:EOLhyphen"/>lick: or if ever any <hi>Sons of God,</hi> in our <hi>Hedge,</hi> be drown'd by this <hi>Flood!</hi> Stop it, I Intreat you; lest the <hi>Breach</hi> in our <hi>Hedge,</hi> come to that pass, in Lam. 2. 13. <hi>The Breach is great like the Sea; who can heal thee?</hi> But it cannot be Stop'd, unless by severe <hi>Laws,</hi> framed, in spite of any Worldly In<g ref="char:EOLhyphen"/>terest unto the contrary, without such <hi>Am<g ref="char:EOLhyphen"/>biguities</hi> of Expression, as may become a <hi>Snare</hi> to Officers, and a <hi>Scorn</hi> to Offendors; for the Enacting of which <hi>Laws</hi> I make my self this Day, <hi>Your Humble Petitioner.</hi>
+               </p>
+               <p>What need I say more? But that the <hi>Hedge</hi> is ruined by all <hi>Vnfruitfulness.</hi> When a <hi>Vineyard</hi> of our God, brings forth <hi>Wild Grapes;</hi> What follows? In Isa. 5. 5. <hi>I will take away the Hedge thereof, and it shall be Eaten up; I will break down the Wall thereof, and it shall be troden down.</hi> Better <hi>Fruits,</hi> than those yielded by the Wild <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> are Expected from them, who have an <hi>Hedge</hi> of God about them. Is there a<g ref="char:EOLhyphen"/>mong
+<pb n="34" facs="tcp:171429:22"/> us, that <hi>Unrighteousness,</hi> that <hi>Fraudulence,</hi> that <hi>False-speaking,</hi> that Contempt of <hi>Supe<g ref="char:EOLhyphen"/>riours,</hi> that want of <hi>Good Nurture,</hi> that Sleight of them that have the <hi>Cure of Souls,</hi> which the very <hi>Heathen</hi> have accounted Criminal? Nay, If there be not among us, an abun<g ref="char:EOLhyphen"/>dance of those <hi>Fruits,</hi> which are <hi>to the Praise of God;</hi> Then as <hi>David</hi> said once, <hi>In Vai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> have I kept all that this Fellow hath in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Wilderness;</hi> even so, our God will say, <hi>I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Vain have I made an Hedge, about such a Peo<g ref="char:EOLhyphen"/>ple in a Wilderness; what will signify an Hedg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> about such a Barren Soyl?</hi>
+               </p>
+               <p>In a word; It was said, in Zech. 2. 5<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>The Lord will be to her, a Wall of Fire roun<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> about, and will be the Glory in the midst o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> her.</hi> An <hi>Hedge,</hi> all <hi>Fire,</hi> is one which n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Wild-Beasts</hi> will dare to break thorough but if once we come no longer to pursu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> this as our chief <hi>Glory, Our Devotion to God and our Enjoyment of God, in His Ordinances</hi> if we are for no other <hi>Glory,</hi> than what th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Sons of old Farmer <hi>Laban</hi> accounted so even, <hi>The Riches of this World;</hi> the <hi>Fiery Wa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> will soon be put out, and every <hi>Wild Bea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> will find us lying open to their bloody <hi>D<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>predations.</hi>
+               </p>
+               <p n="4">
+                  <hi>IV. What shall we</hi> do for our <hi>Hedge</hi>
+                  <pb n="35" facs="tcp:171429:22"/>
+                  <hi>Note</hi> Every <hi>Gap</hi> made in the <hi>Hedge,</hi> as fast as it is made, and observe Diligently the <hi>Gradual Decayes</hi> of our <hi>Hedge.</hi> When a People are laid open to Ruines, 'tis done, for the most part <hi>Progressively</hi> and <hi>Insensibly.</hi> The <hi>Gradual Removes</hi> of the <hi>Glory</hi> were strictly Observed in the Tenth Chapter of <hi>Ezekiel;</hi> and so should be the <hi>Gradual De<g ref="char:EOLhyphen"/>cayes</hi> of a <hi>Glorious Hedge.</hi> It was predicted in Isa. 17. 4. <hi>The Glory of Jacob shall be made Thin;</hi> tis done, when the <hi>Hedge</hi> becomes <hi>Thinner</hi> than it was; and when such a thing is inflicted, we should Exactly observe the <hi>Thinnings</hi> of the <hi>Glory. Observe,</hi> what <hi>Advantages,</hi> our worst Enemies gain, to <hi>break in</hi> upon us; and <hi>Which way,</hi> and <hi>How far,</hi> they Gain those Advantages. <hi>Observe,</hi> How those things are Lessened among us, whereby the <hi>Anger</hi> of God might be kept off, and so, <hi>There is a way made for His An<g ref="char:EOLhyphen"/>ger; Observe,</hi> How those things are Increas<g ref="char:EOLhyphen"/>ed among us, that Increase our <hi>Confusions,</hi> and that make us every way truely <hi>Little.</hi> I say, <hi>Whoso is Wise, will Observe these things;</hi> but if we would <hi>Observe Wisely,</hi> we must make <hi>Prevention</hi> the end of our <hi>Observation.</hi>
+               </p>
+               <p>ONE THING I would ask in the Fear of God! Is there no Hazard, that <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> may come to be <hi>Lost,</hi> in these <hi>Ame<g ref="char:EOLhyphen"/>rican</hi>
+                  <pb n="36" facs="tcp:171429:23"/> Regions? Tis an old Saying, <hi>What hath been, May be;</hi> and what <hi>hath been,</hi> I will now inform you. In the Dayes of the Great CALVIN, under the Influences of that Admirable Hero and Martyr, <hi>Colign<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> the French Admiral, a Noble Knight began to Attempt the Settlement of some French Colonies in <hi>America,</hi> for the Propagation o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Protestant Religion. Arriving at <hi>Bra<g ref="char:EOLunhyphen"/>sile,</hi> they hoped they had found <hi>Quiet-Seats</hi> where the Reformed Churches, might b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Erected, Multiplied, and forever sheltere<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from the Annoyances, whereto they wer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in <hi>Europe</hi> liable. <hi>Geneva</hi> sent over<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Number of Excellent <hi>Pastors</hi> for th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Churches now setting up in those desolat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Corners of the Earth, very little differen<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from <hi>ours;</hi> but it was not long before ther<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> happened among them, some unhappy <hi>Co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>troversies,</hi> which drove their principal <hi>Pasto<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> home again, and as for the People tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> staid behind, no other can be learnt, bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that they are utterly lost, either in <hi>Pag<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nism,</hi> or in <hi>Disaster.</hi> Truly, if that Glor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ous RE-REFORMATION, which is mo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> certainly and <hi>now</hi> speedily, to be effecte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in the Church of God, should not Reliev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>our</hi> Degeneracies, the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e would be cause<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> suspect, whether this <hi>French</hi> Story, mig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="37" facs="tcp:171429:23"/> not be Translated into <hi>English</hi> before we are aware.</p>
+               <p>Give me leave to become your <hi>Monitor,</hi> in and by This ONE Reflection. The <hi>Devil,</hi> is more desirous to Regain poor <hi>New England,</hi> than any one <hi>American</hi> Spot of Ground, whose Inhabitants have yet heard the <hi>Silver-Trumpets</hi> of the Gospel; he would have more of <hi>Triumph,</hi> and of <hi>Tro<g ref="char:EOLhyphen"/>phy,</hi> upon such a <hi>Victory!</hi> And you need not forget how <hi>Victorious</hi> the Devil some<g ref="char:EOLhyphen"/>times ha's been, in Signalizing for his Re<g ref="char:EOLhyphen"/>vived worship, those very Places, which had been most notably Devoted unto the Ser<g ref="char:EOLhyphen"/>vice of God. At <hi>Gilgal</hi> had been the <hi>Ark</hi> of God; but afterwards, <hi>All the Wickedness in Gilgal!</hi> At <hi>Bethel</hi> had been the <hi>House</hi> of God; but afterwards, <hi>Bethel is Bethaven!</hi> They say, where <hi>Dodanim</hi> the Grand-son of <hi>Japhet,</hi> Instructed People in the true Knowledg of God, <hi>There</hi> came to be all the Idolatries of <hi>Dodona's</hi> Grove. I think, <hi>Je<g ref="char:EOLhyphen"/>rom</hi> tell us, That in the place of our Lords, Crucifixion, there came to be a Statue to <hi>Venus,</hi> and in the place of our Lords Resur<g ref="char:EOLhyphen"/>rection, a Statue of <hi>Jupiter.</hi> What ha's befallen, the Renowned Churches of <hi>Asia,</hi> ha's been told in <hi>America,</hi> that we may <hi>Re<g ref="char:EOLhyphen"/>pent, lest we likewise Perish.</hi> And now, what
+<pb n="38" facs="tcp:171429:24"/> if in those parts of <hi>New-England,</hi> where the Lord Jesus Christ ha's heretofore most Eminently Exhibited Himself unto the Souls of them that <hi>followed Him into a Wil<g ref="char:EOLhyphen"/>derness,</hi> there should ere long be but, <hi>The Habitations of Owls and Dragons!</hi> I would Humbly Request my Neighbours, in Sober Sadness to Consider, Whether the most un<g ref="char:EOLhyphen"/>accountable and unparallellable Descent of <hi>Devils,</hi> lately made, especially about the <hi>Center</hi> of this Province, wherein so many poor Creatures have been <hi>Afflicted,</hi> with proposals of the most horrible <hi>Devil-Wor<g ref="char:EOLhyphen"/>ship,</hi> Spectrally tendred unto them, were not Intended for a most <hi>Ominous Pro<g ref="char:EOLhyphen"/>digy,</hi> unto us. Consider, whether, we have not had, as it were in a <hi>Magical Glass,</hi> fore-shown unto us, what a <hi>Kingdom</hi> the <hi>Devils</hi> may yet again have, when the <hi>Sun of Righteousness</hi> leaves off to Shine, in these <hi>Go<g ref="char:EOLhyphen"/>ings down of the Sun!</hi> And as for those Particular <hi>Churches</hi> in the Land, who are under a Sensible <hi>Withdraw</hi> of their Ancient <hi>Glory</hi> from them, to <hi>them</hi> I will only repeat the Solemn words of a Famous Divine, un<g ref="char:EOLhyphen"/>to Old <hi>Boston,</hi> in <hi>Lincolnshire,</hi> partly upon the Occasion of Mr. <hi>Cottons</hi> going from thence; words Printed about Forty years ago; <hi>I have,</hi> said he, <hi>Sometimes on purpose</hi>
+                  <pb n="39" facs="tcp:171429:24"/>
+                  <hi>Visited some places, where God had before plant<g ref="char:EOLhyphen"/>ed His Church, and a Faithful Ministry; to see, if I could discern any Foot-steps, and Remem<g ref="char:EOLhyphen"/>brances, of such a Mercy; and, Lo, they were all grown over with Thorns, and Nettles had Covered the Face thereof, and the Stone-Wall thereof is broken down. And, which is more sad! In some of them Never, in others very hardly built up a<g ref="char:EOLhyphen"/>gain. As God Removeth the Candlestick, when we Play or Fight, by the Light of the Candle set up in it, so He is very Hardly Induced to Light it again, in that place, where it hath once been Wantonly, or Frowardly put out. The</hi> Ark <hi>never did Return, to the same place, from which it was in a way of Judgment Re<g ref="char:EOLhyphen"/>moved!</hi>
+               </p>
+               <p>THIS is the Sum of what I would now say hereupon. I pray you, For the Lords sake, I pray you, To <hi>Observe</hi> all <hi>Tendencies</hi> towards that Forlorn State, where-to our Sins are apace carrying of us. It is a most miserable Thing, when a Sickly and Cloudy <hi>Lassitude</hi> of Spirit, shall indispose a People to take Notice, of what may bee signify'd unto them in their own <hi>Alterations;</hi> and when a People shall Jog on, in a Sottish, a Stupid, an heedless <hi>Lethargy</hi> of Soul, until they Dy. This <hi>Dementation,</hi> is the Blackest
+<pb n="40" facs="tcp:171429:25"/> Mark upon a People cut out for <hi>Desolation.</hi> In all <hi>States,</hi> let us look <hi>whereabouts</hi> we are. In our <hi>Civil State,</hi> have we such a Variety of Prudent and Vertuous <hi>Men,</hi> to Employ for all <hi>Services</hi> as formerly, or, to supply our <hi>Vacancies?</hi> In our <hi>Military State,</hi> have not our <hi>Artillery</hi> Exercises even dwindled away to <hi>Nothing,</hi> and many other <hi>Training</hi> Dayes become little other than <hi>Drinking</hi> Dayes? As to our whole <hi>Political State,</hi> let the Face and Course of Things in <hi>Gene<g ref="char:EOLhyphen"/>ral Assemblies,</hi> be compared with, <hi>What was from the Beginning;</hi> though here I can<g ref="char:EOLhyphen"/>not so particularly say, What would be the Result of <hi>that</hi> Comparison. In our <hi>Eccle<g ref="char:EOLhyphen"/>siastical State,</hi> though our <hi>Inhabitants</hi> are more than they were many years ago, yet are not our <hi>Communicants</hi> rather fewer, in many Towns? And, albeit the Genera<g ref="char:EOLhyphen"/>lity of our Ministers are of this Judgment, <q rend="margQuotes">
+                     <hi>That Ruling Elders</hi> are appointed for the <hi>Assistance</hi> of their <hi>Pastors,</hi> in the <hi>Government</hi> of their Churches, and the <hi>Inpspection</hi> of thee Flocks; and that, although these Officers may not be furnished with all the Attain<g ref="char:EOLhyphen"/>ments which are Necessary for a <hi>Pastor,</hi> ye<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> it they are so accomplished, as that they may be <hi>Helps</hi> to their <hi>Pastor</hi> in the management of the <hi>Church-Rule,</hi> they may be chosen
+<pb n="41" facs="tcp:171429:25"/> thereunto, with much Benefit, and Advan<g ref="char:EOLhyphen"/>tage to the People of God:</q> Nevertheless, How is that <hi>Office</hi> almost utterly Extinct in our <hi>Churches;</hi> and, <hi>Chiefly,</hi> tis said, for this cause, that our <hi>Churches</hi> have not Numbers of men well qualified with Wisdom, Cou<g ref="char:EOLhyphen"/>rage, Leisure, Holiness and Gravity enough, to <hi>Visit</hi> the Distressed, <hi>Instruct</hi> the Ignorant, <hi>Reduce</hi> the Erroneous, <hi>Comfort</hi> the Afflicted, <hi>Advise</hi> the Defective, <hi>Rebuke</hi> the Unruly, and Promote the <hi>Growth</hi> of the Societies where<g ref="char:EOLhyphen"/>unto they do belong? <hi>Time was,</hi> that Neigh<g ref="char:EOLhyphen"/>bourhoods, were filled with Private and Pi<g ref="char:EOLhyphen"/>ous <hi>Meetings,</hi> for the Mutual Edification of the Neighbours in the fear of God; but is it not now come to that pass in some Congregations, that if their <hi>Pastor</hi> lay a Dy<g ref="char:EOLhyphen"/>ing, there would not be one <hi>Meeting</hi> of or<g ref="char:EOLhyphen"/>dinary Believers, that could come together to <hi>Fast</hi> and <hi>Pray</hi> for his Life? And now, who is there duely Apprehensive of these <hi>Gradual Decayes</hi> in our <hi>Hedge?</hi> I have heard it observed, concerning some <hi>Towns,</hi> among us, through whose Broken <hi>Hedge,</hi> the De<g ref="char:EOLhyphen"/>stroying <hi>Angels</hi> of Sickness, have broken in, and carried off many of the People: The more observant Ministers of those Towns, have asked the Survivers, <hi>How many, accor<g ref="char:EOLhyphen"/>ding to their Account, have Dy'd out of the place,</hi>
+                  <pb n="42" facs="tcp:171429:26"/>
+                  <hi>in the last Pestilential Months?</hi> To which they have Replyed, <hi>It may be Eight or Ten;</hi> but these have been able to Surprise them, with showing them, <hi>That some Scores of their Friends were in those few Months gone to the place of Silence.</hi> Truly, such <hi>Unheeded things</hi> usually, are all the Calamitous <hi>Decayes</hi> which befall a People, when God is contending with them. Good Things leave us, and no body takes an Account, <hi>How,</hi> or <hi>When,</hi> they leave us. Of such a People it has been said, <hi>Gray Hairs are here and there upon them, and they know it not!</hi>
+               </p>
+               <p>But, Oh! do not permit all things thus <hi>In Pejus ruere, et retro Sublapsa referri;</hi> Go to Ruine, without any Bodies <hi>Minding</hi> how matters go. It may be that we <hi>Young Men,</hi> like those that saw the Foundations of the <hi>Second Temple,</hi> may be ready to Rejoice tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> things are so well with us, as they are; an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> indeed, <hi>Blessed be God that they are no worse</hi> But let us Enquire of our <hi>Old Men,</hi> for<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Truer View of our <hi>Decayes.</hi> As it was said in Joel 1. 2. <hi>Hear this, ye Old Men; Ha's th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> been in your Dayes?</hi> Thus, my <hi>Fathers;</hi> Pray, Do <hi>You,</hi> tell us; Is the <hi>Hedge</hi> of God about <hi>Us,</hi> as it was in <hi>Your Dayes?</hi> Doubtless An uncomfortable Story, they have to tell u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Minding,</hi> did I say? But that must b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:171429:26"/> with a Disposition to <hi>Mending,</hi> of what is thus Decaying in our <hi>Hedge.</hi> I remember a <hi>Proverb,</hi> in Prov. 15. 19. <hi>The way of the Sloth<g ref="char:EOLhyphen"/>ful is as an Hedge of Thorns.</hi> Many times, when we should set our selves to Consider the Condition of our <hi>Hedge,</hi> we are dis<g ref="char:EOLhyphen"/>heartened by the <hi>Thorns</hi> which are to be Encountred in it! The Fear of being <hi>Scratched</hi> with <hi>Reproaches,</hi> or <hi>Scratched</hi> with <hi>Expences,</hi> makes us too <hi>Slothful</hi> to meddle with it.</p>
+               <p>But I Renew my Addresses to You, for this piece of Discretion; <hi>Let us keep a Watchful Eye, upon Every Spreading Breach, in our Hedge.</hi> I remember, a notable Passage, reported in a Jewish History: That a Fa<g ref="char:EOLhyphen"/>mous King of <hi>Portugal</hi> finding himself una<g ref="char:EOLhyphen"/>ble to <hi>Sleep</hi> in the Night, went and walk'd on the Top of his Palace; from whence he saw a couple of Wretches throw a <hi>Dead Corpse</hi> into the House of a poor Jew not far off. The next morning those Wretches, made a clamour about the City, that the Jew had Murdered the man who was missing; and the whole People of Jews in the City, had been Massacred, in the Tumult raised on this Occasion, if they had not been res<g ref="char:EOLhyphen"/>cued by the Justice of the King, who had been an <hi>Ey-Witness,</hi> how the <hi>Plot</hi> was mana<g ref="char:EOLhyphen"/>ged.
+<pb n="44" facs="tcp:171429:27"/> The King then asked the Chief <hi>Rabbi's</hi> of the Jews, how they translated, the <hi>Fourth</hi> Verse of the <hi>Hundred &amp; Twenty First</hi> Psalm. They Answered, <hi>He that keepeth Israel shall neither Slumber, nor Sleep:</hi> He Reply'd, <hi>Nay, I translate it so, <hi>He will not Slumber, nor will He Suffer to Sleep, the Keeper of Israel;</hi> which</hi> (he added) <hi>you have seen fulfilled, in your Deliverance by means of my Wakefulness.</hi> That I say hereupon is this; <hi>The Keepers of our Walls,</hi> are at this Time to be spoken unto; Well, but <hi>May the Lor<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> now not suffer you to Sleep.</hi> The safety of our <hi>Walls</hi> do's depend upon your being due<g ref="char:EOLunhyphen"/>ly, <hi>Watchful, Wakeful, Heedful</hi> upon them.</p>
+               <p>And, if you would have a <hi>Rule</hi> or two more particularly given, for the Directin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of this <hi>Watchfulness,</hi> you shall have it.</p>
+               <p>One Rule is this. Observe <hi>Goings ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> as well as <hi>Breakings in,</hi> if you would se<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> where the <hi>Hedge</hi> is Deficient. Those thing<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are joined, in Psal. 144. 14. <hi>That there be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Breaking in, or Going out.</hi> For instance then Do our <hi>Young</hi> People, any of them <hi>Go ou<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> in such a manner as to bring perhaps a Ble<g ref="char:EOLunhyphen"/>mish upon their whole Nation, and give Scandal unto all mankind; and proclam<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Themselves <hi>Lost</hi> unto all Good Intents an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Purposes? You may be sure, The <hi>Hedge</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:171429:27"/> not whole, if such things cannot be ob<g ref="char:EOLhyphen"/>structed. Here then, Think, <hi>What is to be done?</hi> It was a most rueful Sight, when in 2 King. 3. 27. <hi>The King of Moab, took his Eldest Son, and offered him, for a Burnt-offering upon the Wall.</hi> But, Ah! Lord! Is there no way for us to hinder our Sons, from <hi>Going out</hi> at our <hi>Wall,</hi> that they may among, I know not what Cursed <hi>Crues, Offer</hi> themselves a <hi>Burnt-offering</hi> unto the <hi>Devil?</hi> God put us into a way. Again, Do our <hi>Old</hi> People, any of them <hi>Go out</hi> from the Institutions of God, Swarming into New Settlements, where they and their Untaught Families are like to <hi>Pe<g ref="char:EOLhyphen"/>rish for Lack of Vision?</hi> They that have done so, heretofore, have to their Cost found, that they were got unto the <hi>Wrong side of the Hedge,</hi> in their doing so. Think, here, <hi>Should this be done any more?</hi> We read of <hi>Balaam,</hi> in Num. 22. 23. He was to his Da<g ref="char:EOLhyphen"/>mage, <hi>driven to the Wall,</hi> when he would needs make an unlawful <hi>Salley</hi> forth after the <hi>Gain</hi> of this World, with a Secret Re<g ref="char:EOLhyphen"/>serve, as it seems, in his own Breast, of accom<g ref="char:EOLhyphen"/>modating himself to his Worldly Interest, contrary to the charge that God had given him. Why, when men, for the sake of Earthly Gain, will be <hi>Going out</hi> into the <hi>Warm Sun,</hi> they drive <hi>Through the Wall,</hi> and
+<pb n="46" facs="tcp:171429:28"/> the <hi>Angel of the Lord</hi> becomes their Enemy.</p>
+               <p>Shall I add one thing more? I say then, Observe the Inclinations of Good and Great Men to <hi>be <hi>Gone.</hi>
+                  </hi> When the <hi>Hedge</hi> about the People of the Jews was just breaking down, there was a Marvellous Cry which Mortal men overheard audibly uttered a<g ref="char:EOLhyphen"/>mong the <hi>Angels</hi> in the <hi>Invisible World, <hi>Mi<g ref="char:EOLhyphen"/>grenius hine,</hi>
+                  </hi> or, <hi>Let us be gone.</hi> Some<g ref="char:EOLhyphen"/>times a People have among them such men, as the Bible calls <hi>Angels;</hi> Yea, such men as are <hi>Angels</hi> in <hi>Flesh:</hi> men that are Disposed like the <hi>Angels,</hi> Employ'd like the <hi>Angels,</hi> the special Darlings of the <hi>Angels.</hi> Well, it should be observed, Whether there be that <hi>Uneasi<g ref="char:EOLhyphen"/>ness</hi> in the Minds of such men, which makes them in their more Deliberate and more Supplicating Frames before the God of Hea<g ref="char:EOLhyphen"/>ven, to Wish, <hi>Oh! That I had Wings like a Dove, to flee away!</hi> When ever such <hi>An<g ref="char:EOLhyphen"/>gels</hi> come to be upon the <hi>Wing,</hi> I tell you, the <hi>Hedge</hi> is failing horribly. Regard what I say; The <hi>Body</hi> is an <hi>Hedge</hi> to the <hi>Soul;</hi> but when the <hi>Soul</hi> comes to talk much of <hi>Going,</hi> of <hi>Removing,</hi> of <hi>Departing,</hi> which is the usual Talk of Dying men, 'tis a shrow'd Symptome, that the <hi>Hedge</hi> ha's a <hi>Dissolution</hi> just Siezing upon it. There are <hi>Men,</hi> that are the very <hi>Soul,</hi> and <hi>Salt,</hi> of their People;
+<pb n="47" facs="tcp:171429:28"/> and when these men shall have their Thoughts all upon <hi>Going,</hi> the <hi>Hedge</hi> is mouldring away, you may be sure of it!</p>
+               <p>I'l touch upon one thing more; Observe Whether a People are willing to be at Ne<g ref="char:EOLhyphen"/>cessary <hi>Charges</hi> for the Succouring of their <hi>Hedge;</hi> or, Whether to save <hi>Charges,</hi> they do not grow almost careless what becomes of it. We are told, That <hi>Coveteousness, is the Root of all Evil</hi> (A destructive <hi>Root</hi> in a <hi>Wall!)</hi> and therefore we may be <hi>Foretold,</hi> that the <hi>Hedge</hi> will be open, for all kind of <hi>Evil</hi> to Rush in, upon a People that shall be under the Dominion of such a <hi>Penurious, Niggardly, Sordid,</hi> Principle. I remember, 'tis the speech of the <hi>Golden-Mouth'd</hi> Anci<g ref="char:EOLhyphen"/>ent, <hi>The Coveteous, are as a City without Walls.</hi> I am certain, They soon make themselves to be so. The Miserable <hi>Greeks</hi> would not be at the charge, to pay the Watchmen upon their Beseiged <hi>Wall,</hi> and by that wicked <hi>Co<g ref="char:EOLhyphen"/>veteousness</hi> of theirs, their <hi>Wall</hi> was quickly Scaled by their Adversaries, who then found that they had a Wealthy City thus fallen into their Hands. How many a fair <hi>Wall</hi> ha's been foolishly Betrayed by the <hi>Covete<g ref="char:EOLhyphen"/>ousness</hi> of those, that yet in Loosing of the <hi>Wall,</hi> have <hi>Lost</hi> an Hundred Times more than would have been enough to have <hi>kept</hi> it up!
+<pb n="48" facs="tcp:171429:29"/> When God sees, that men will Subordinate every thing to a <hi>Parsimonious Humour,</hi> He delights in crossing them, with such a Mul<g ref="char:EOLhyphen"/>tiplication of Breaches in their <hi>Hedge,</hi> as will make them <hi>Spend,</hi> it may be Ten Times more than they hoped to <hi>Spare:</hi> it may be, more than <hi>Four-score</hi> thousand Pounds, when less than <hi>Fourteen,</hi> would once have done their matters. To give one Instance; God may make Nations of <hi>Pagans</hi> to be sometimes an <hi>Hedge</hi> about His People; and their Lively Attempts to <hi>Christianize</hi> and <hi>Civilize</hi> these <hi>Pagans,</hi> might render the <hi>Hedge</hi> for ever Im<g ref="char:EOLhyphen"/>marcescible. Well, Throw by such a costly undertaking, and you shall see, that God will turn this <hi>Hedge</hi> into <hi>Briars</hi> and <hi>Thorns,</hi> which will tear us to Pieces with <hi>Wars,</hi> Forty Times as costly as all those <hi>means,</hi> which might have made them, <hi>The Lords,</hi> and <hi>Our own,</hi> for ever. It is for some such causes, as this that whether, the rest of my Discourse have been Applicable to my own Country, or no, I must so far Apply <hi>This</hi> Article of it, as to Pray, that when you find it accomplished, you will Remember, that you once had this Advice; <hi>If any part of</hi> New Englands <hi>Peace, L<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty, Religion, be lost, i<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will be by Saving; a Coveteous Disposition to <hi>Save</hi> a Little, will Occasion the <hi>Loss</hi> of all.</hi>
+               </p>
+               <pb n="49" facs="tcp:171429:29"/>
+               <p> Might we not have added, yet another Symptom of a <hi>Broken Hedge?</hi> The inspired <hi>Wise man</hi> allows any <hi>Wise man,</hi> to reckon his <hi>Good Name,</hi> among his dearest Interests▪ But what an <hi>Unhedged</hi> place will that be, where a mans <hi>Good Name</hi> can have no Secu<g ref="char:EOLhyphen"/>rity? It was the hard measure which the Great <hi>Athanasius</hi> had from his Arian Adver<g ref="char:EOLhyphen"/>saries; that, <hi>Caedes, Adulteria, Furta, quicquid Atrox Confingi Poterat, Sancto Viro Objicieban<g ref="char:EOLhyphen"/>tur;</hi> this Great Saint had all manner of <hi>De<g ref="char:EOLhyphen"/>villism</hi> laid unto his charge, by a <hi>Diabolical</hi> Generation: and he had no <hi>Hedge</hi> to Fend off their <hi>Calumnies!</hi> The <hi>Hedge</hi> of <hi>Judea</hi> was gone, when a Prophet of the Lord, could com<g ref="char:EOLhyphen"/>plain, in Jer. 20. 10. <hi>I heard the Defaming of ma<g ref="char:EOLhyphen"/>ny,—Report, say they, and we will Report it.</hi> Where a man ha's in a most unspotted Conversation, been Serving of God, and His People, 'tis all the Reason in the World, that his Vertuous <hi>Life</hi> should be a Durable <hi>Hedge,</hi> about him, to preserve him the <hi>Reputation,</hi> of <hi>A Witness for God in the World.</hi> But what? Shall every filthy <hi>Jealously,</hi> bred of the <hi>Corruptions</hi> in eve<g ref="char:EOLhyphen"/>ry Malicious and Invidious <hi>Brain,</hi> become immediately a Credible <hi>Report</hi> through a Country? Shall the most Well deserving Ser<g ref="char:EOLhyphen"/>vants of mankind, have the just Repute, which recommends them to Service among the Peo<g ref="char:EOLhyphen"/>ple
+<pb n="50" facs="tcp:171429:30"/> of God, ly at the Mercy of every Pas<g ref="char:EOLhyphen"/>sionate and Reprochful Detractor? Or, shall the most <hi>Circumspect Walkers,</hi> at once loose all the Stock of <hi>Credit</hi> with which a course of long Piety ha's Enriched them, meerly upon some sort of <hi>Spectral Exhibitions,</hi> which cannot be accounted for? Our <hi>Hedges</hi> are under a most unhappy <hi>Dissipation,</hi> if ever it come to this. It may be that some who have been convicted of maintaining a Trade of Secret <hi>Wickedness,</hi> under the Cloak of a Splendid and Glorious <hi>Profession,</hi> for many years together, may have given dreadful Wounds, unto the <hi>Good Names,</hi> of all the best Christians, that may happen to be spoken a<g ref="char:EOLhyphen"/>gainst; None of our <hi>Exact Living</hi> all our Dayes will now be such a Vindicating <hi>Hedge</hi> about us as once it was, because of some that have been found <hi>Ill men</hi> after they had long Enjoy'd <hi>Good Names</hi> in the Church of God. All that I shall now say of it, is; <hi>Wo to the World, because of the Offences which have been given by these Wretched Hedge-breakers:</hi> but Oh! Where is the <hi>Tongue</hi> that can Express, where the <hi>Heart</hi> that can conceive, the <hi>Woes</hi> that belong unto them that have given those <hi>Ossences.</hi>
+               </p>
+               <p n="5">
+                  <hi>V.</hi> But it is Time to come unto the <hi>Con<g ref="char:EOLhyphen"/>clution of the matter.</hi> And That shall be This:
+<pb n="51" facs="tcp:171429:30"/>
+                  <hi>What shall be done? <hi>Every man</hi>
+                  </hi> is to Do <hi>Something,</hi> and <hi>All</hi> are to join as <hi>One man,</hi> in the Doing of Every Thing, that Every <hi>Gap,</hi> in our <hi>Hedge</hi> may be repaired. As when the Sons of <hi>Jacob,</hi> had upon them, that which will <hi>Break Through Stone Walls,</hi> it was then said, <hi>Why stand ye Looking one upon another?</hi> So, When Sins are breaking down our <hi>Walls,</hi> we may be Expostulated, <hi>Why do you stand Look<g ref="char:EOLhyphen"/>ing one upon another? To work, All Hands! E<g ref="char:EOLhyphen"/>very man ha's his Work to do about our Hedge.</hi>
+               </p>
+               <p>Three Things I will say; and then I shall have <hi>said.</hi>
+               </p>
+               <p>First; <hi>One man</hi> may do very much to<g ref="char:EOLhyphen"/>wards the <hi>Restoration</hi> and the <hi>Preservation</hi> of our Impaired <hi>Hedge.</hi> It is here said, <hi>I Sought for a <hi>man</hi> among them, that should make up the Hedge.</hi> What? can <hi>One man</hi> then signify any thing? Yes; Very much. It is a very Discouraging Adage, <hi>Unus Vir, Nullus Vir;</hi> that is, <hi>One man is as No man.</hi> But the best is; It is not alwayes <hi>True.</hi>
+               </p>
+               <p>As in the <hi>Weakening</hi> of an <hi>Hedge;</hi> How much Ill may be done by <hi>One man?</hi> Tis said in Eccl. 9. 18. <hi>One <hi>Sinner destroyeth much Good;</hi>
+                  </hi> So, <hi>One Sinner</hi> often Occasions <hi>much Hurt. Achan</hi> was but <hi>One man,</hi> and yet the whole <hi>Host</hi> fared the worse for him. <hi>Jonah</hi> was but <hi>One man,</hi> and yet the whole <hi>Ship</hi> had
+<pb n="52" facs="tcp:171429:31"/> like to have been Sunk by him. Thus, In <hi>Strengthening</hi> of our <hi>Hedge;</hi> How much Good may be done by <hi>One man? <hi>Ten men</hi>
+                  </hi> would have <hi>Hedged</hi> a <hi>Sodom;</hi> and it may happen so, that <hi>One man</hi> may <hi>Hedge</hi> a <hi>Zion.</hi> It was pro<g ref="char:EOLhyphen"/>fered, by the Patience of Heaven, in Jer. 5. 1. <hi>Run ye to and fro through the Streets of Jerusa<g ref="char:EOLhyphen"/>lem, &amp; see now, &amp; know, &amp; in the Broad places thereof, if ye can find <hi>a Man;</hi> if there be any that Executeth Judgment, and that seeketh the Truth, &amp; I will Pardon it.</hi> You know how the Language of <hi>Thou</hi> and <hi>Thee,</hi> was first changed into YOU, in speaking to a Single Person When the Roman <hi>Common Wealth</hi> became a <hi>Monarchy,</hi> and the Power of <hi>Many</hi> came into <hi>One mans</hi> Hand, it grew common to treat Persons of Quality, in the Plural Number, with YOU, and so by Degrees, it is descended unto <hi>all</hi> particular men. Truly, there are <hi>many</hi> within these <hi>Walls</hi> at this Time, whereof each <hi>One</hi> ha's the Power of <hi>Many</hi> in his hands, for the Helping of all our <hi>Walls;</hi> and unto each <hi>One</hi> of those I would say, Consider, I request YOU, Consider what YOU may do.</p>
+               <p>What may be done for an Impaired <hi>Hedge,</hi> by <hi>One</hi> GOVERNOUR? <hi>Moses</hi> was but <hi>One man;</hi> and yet Read Psal. 106. 23. <hi>He said, That He would Destroy them, had not Moses His chosen, stood before Him, in the Breach; to turn away His Wrath, lest He should destroy them.</hi>
+                  <pb n="53" facs="tcp:171429:31"/> Such an one, by Countenancing those things that are <hi>True, Honest, Just, Pure, Lovely, &amp; of Good Report,</hi> in His whole Government, and by being Exemplary for all Self Government, and Godliness and Righteousness in His own Conversation, How much may He do to make all but malignant Murmurers acknow<g ref="char:EOLhyphen"/>ledge, <hi>Sir. By YOU we Enjoy great Quietness, &amp; Worthy Deeds are done for this People by Your Providence?</hi> The <hi>Wall</hi> of <hi>Jerusalem,</hi> was well defended, when there was, <hi>A Nehemiah upon the Wall:</hi> who instead of having all <hi>Good Acts</hi> dearly Bought from him, was readier to do <hi>Good Acts</hi> for his Country-men, than they were to <hi>Ask</hi> them. And all the unkindnesses, that had been done to <hi>Jephtah,</hi> by his Country<g ref="char:EOLhyphen"/>men, would not make him Abate, his doing the part of an Indefatigable <hi>Captain-General,</hi> to fortify their <hi>Hedge,</hi> against their <hi>Eastern In<g ref="char:EOLhyphen"/>vaders.</hi> When we appear shortly before the <hi>Judgment Seat</hi> of the Lord Jesus Christ, it will be an Abundant Recompence for all the Fa<g ref="char:EOLhyphen"/>tigues of Action for the Publick, undergone by such an one, to hear Thousands of <hi>Saints</hi> Confessing to the Glory of God, <hi>Lord, we thank thee, for the Conveniencies to Serve thee without Fear, which by the Care of such a Ser<g ref="char:EOLhyphen"/>vant of thine, were prolong'd unto us!</hi>
+               </p>
+               <p>What may be done for an Impaired <hi>Hedge,</hi>
+                  <pb n="54" facs="tcp:171429:32"/> by <hi>One</hi> MAGISTRATE? <hi>Phinehas</hi> was but <hi>One man;</hi> and yet Read, Num 25 11. <hi>Phinehas has turned away my Wrath, from the Childen of Israel, while he was Zealous for my sake among them, that I consumed not the Children of Israel in my Jealousy.</hi> Among our Primitive <hi>Coun<g ref="char:EOLhyphen"/>sellors,</hi> our Honourable <hi>Judges,</hi> our Worship<g ref="char:EOLhyphen"/>ful <hi>Justices,</hi> may not <hi>One man,</hi> by a well-tempe<g ref="char:EOLhyphen"/>red and a well placed <hi>Zeal,</hi> do much that our <hi>Hedge</hi> may be mentained? When the Oracle intimated, That the wrath of Heaven could not be turned away, Except some <hi>One man</hi> would so make himself a Sacrifice, the noble <hi>Curtius</hi> bravely Rode up into the <hi>Chasm</hi> of the Earth, where he perished Is there a <hi>Chasm</hi> in our <hi>Hedge?</hi> Truly, <hi>One man</hi> courageously carrying the <hi>Sword of Justice</hi> thither in his Hand, may do a Generous Thing to make all Secure. <hi>Venture</hi> thus upon the <hi>Wall,</hi> to beat off its cursedest underminers! <hi>Israel</hi> ha's been sometimes called <hi>Jeshurun;</hi> and I doubt the Etymology is from <hi>Shor,</hi> an <hi>Ox,</hi> rather than from, <hi>Jashar,</hi> To be <hi>Righteous.</hi> Indeed, such an <hi>Ox-like</hi> People, as even an <hi>Israel</hi> it self often is, in their <hi>Wanton</hi> and <hi>Kicking</hi> Humours, will be pushing through the <hi>Hedge</hi> that ha's been made about them. Yea, But <hi>One man</hi> among those that are, <hi>The Rulers in Jeshurun,</hi> by the Vigorous, Impartial, and Conscientious Exe<g ref="char:EOLhyphen"/>cution
+<pb n="55" facs="tcp:171429:32"/> of wholesome <hi>Laws</hi> may befriend the <hi>Hedge,</hi> How Considerably!</p>
+               <p>What may be done for an Impaired <hi>Hedge,</hi> by <hi>One</hi> MINISTER? <hi>Aaron</hi> was but <hi>One man;</hi> yet we find in Num. 16. 48. <hi>He stood between the Living &amp; the Dead, &amp; the Plague was stai'd.</hi> The Tribe of <hi>Levi,</hi> is the <hi>Joining</hi> Tribe; you note the Signification of the Name. Is our <hi>Hedge</hi> divuls'd? It belongs unto us to <hi>Join</hi> what ha's been parted, and Labour for Good Terms, both with God and one with another. In <hi>Tertullians</hi> Dayes the <hi>Church-Vessels</hi> had Engraven upon them, the figure of a <hi>Shepherd</hi> carrying a <hi>Sheep</hi> upon his Back; in allusion to a Well-known Parable. In our Dayes, the <hi>Church-Members</hi> are too like unto <hi>Sheep,</hi> that violate the <hi>Hedge</hi> of God by their Excursions; but it is our Work, to bring in and keep in our <hi>Sheep.</hi> Our God said unto one of our Predecessors, <hi>If thou take forth the Precious from the Vile, I will make thee unto this People a Fenced Brasen Wall.</hi> May <hi>We,</hi> by the Fidelity, the Sedulity, the Watchfulness of our Ministry, become a <hi>Wall,</hi> not <hi>Against,</hi> but <hi>Unto</hi> our People! But by our <hi>Prayerfulness</hi> most of all. Our Blessed Lord Jesus Christ ha's Commanded us, to bring not only <hi>Our selves,</hi> but also all that is <hi>Ours</hi> unto Himself, with Expectations of His bestowing His <hi>Blessings</hi>
+                  <pb n="56" facs="tcp:171429:33"/> thereupon. I have now thought, <hi>Will the Lord Accept, &amp; Bless &amp; Heal &amp; Save my People, as well as my own Soul, if I bring All these unto Him?</hi> This very question I have seen Started in the <hi>Diary</hi> which one of our Greatest Per<g ref="char:EOLhyphen"/>sons, long since gone to Glory, left in Ma<g ref="char:EOLhyphen"/>nuscript behind him; and his own Answer to it, was written in these words, <hi>Here I saw the great Priviledge of it &amp; the Wisdom of God, in Committing some mens Souls, to the care of One Godly man, of a Publick Spirit; because He, like</hi> Moses, <hi>Commends them, Gives them, Returns them all to the Lord again; and so a World of Good is Communicated for His sake.</hi>
+               </p>
+               <p>It might have been added; Among the <hi>Representatives,</hi> how much may <hi>One man</hi> do, to prepare and propose those things, which may be of Good Consequence to all our <hi>Hedge?</hi> But I rather hasten to say,</p>
+               <p>Secondly: If we were <hi>All</hi> as <hi>One man</hi> for the <hi>Restoration</hi> and the <hi>Preservation</hi> of our <hi>Hedge,</hi> it would no longer be Impaired. It is here said, <hi>I Sought for a MAN among them.</hi> Indeed, if all <hi>among</hi> us were as <hi>One man,</hi> the Lord would have what He <hi>Seeks</hi> for. The <hi>Wall</hi> of <hi>Jerusalem</hi> went on Comfortably, when in Neh. 4. 6. <hi>All the Wall was joined together, for the People had a Mind to Work.</hi> But when People have a <hi>Mind</hi> rather to Rail, and Hate,
+<pb n="57" facs="tcp:171429:33"/> and Squeeze one another, and are not for <hi>Joining</hi> on the <hi>Wall,</hi> then all goes on Cala<g ref="char:EOLhyphen"/>mitously. In Truth, we have been too much as <hi>One man,</hi> where we should not have been so. It was Reprehended, in Hos. 6. 7. <hi>They like Adam, have Transgressed the Covenant.</hi> I have met with a Christianized Jew, who ha's given me that sense of it; <hi>They as <hi>One man,</hi> have Transgressed the Covenant.</hi> So <hi>U<g ref="char:EOLhyphen"/>nanimous</hi> have we been in our Offences a<g ref="char:EOLhyphen"/>gainst the <hi>Institutions</hi> of our God! Yea, but now let us become as <hi>One man,</hi> in Return<g ref="char:EOLhyphen"/>ing to the God, against whom we have <hi>Transgressed,</hi> and in helping one another to Return. We <hi>All</hi> have something to do for our <hi>Hedge;</hi> but O Let it not be said of our Treating, and our Hindring one another, as in Mic. 7. 4. <hi>The best of them is as a Briar, the most. Upright is Sharper than a Thorn-Hedge.</hi> If <hi>Divisions,</hi> Prejudices, Alienations and A<g ref="char:EOLhyphen"/>nimosities, get into our <hi>Heart,</hi> we shall soon have them, and the ill fruits of them, in our <hi>Hedge.</hi> We have been called upon, <hi>Mark those who cause Divisions;</hi> what <hi>Mark</hi> shall we set upon them? Why, This: They are <hi>Hedge-breakers!</hi> Tis remarkably Expres<g ref="char:EOLhyphen"/>sed, in Prov. 25. 28. <hi>He that hath no Rule over his own Spirit, is like a City that is broken down, and without Walls.</hi> Even so, An Angry, an
+<pb n="58" facs="tcp:171429:34"/> Hasty, a Perverse People; what are they? But such as have their <hi>Walls broken down?</hi> I may say of all the Disasters, which have pressed in, through our <hi>Broken Hedge,</hi> upon us, <hi>Tis because we have not been Brethren dwel<g ref="char:EOLhyphen"/>ling together in Unity, that we have not had the Blessing.</hi> But especially, They that are in and of the <hi>Hedge</hi> it self, will accept of this <hi>Admonition. Distances</hi> and <hi>Estrangements,</hi> and <hi>Misunderstandings,</hi> between those that are in <hi>High place,</hi> are of all, most <hi>out of place;</hi> and they will be Fatal Things indeed! What shall be said of such things, but that in Isa 30. 13. <hi>This Iniquity shall be to You, as a Breach ready to fall, Swelling out in an High Wall?</hi> It was Threatned among the sorest of Judgments, <hi>I will kindle a Fire in the Wall.</hi> I am very desirous we should Enjoy a <hi>Wall of Fire;</hi> Yea, that we may be well Surround<g ref="char:EOLhyphen"/>ed with <hi>the Stones of Fire;</hi> but yet God grant, there may never be any <hi>Fire in our Wall!</hi> Briefly, Let all ranks of men among us wear <hi>that</hi> Motto; the Motto once of the <hi>Low Countries,</hi> may now very well befit a <hi>Country</hi> every way <hi>Low; Si Collidimur, Fran<g ref="char:EOLhyphen"/>gimur:</hi> If we <hi>Clash,</hi> we <hi>Break.</hi>
+               </p>
+               <p>Lastly. For the <hi>Restoration</hi> and <hi>Preservati<g ref="char:EOLhyphen"/>on</hi> of our Impaired <hi>Hedge,</hi> I hope, there is
+<pb n="59" facs="tcp:171429:34"/> not <hi>One man,</hi> but what can Lift up a <hi>Prayer</hi> unto the Lord! It is here said, <hi>I Sought for a MAN among them.</hi> Why, a man truly <hi>Seeking</hi> of <hi>Him,</hi> would be <hi>That Man.</hi> Wherefore, in our <hi>Hedge-broken</hi> Condition, Let it not be said of us, as in Isa. 59. 16. <hi>He saw that there was <hi>No man,</hi> and wondered that there was no Intercessor.</hi> No; God for<g ref="char:EOLhyphen"/>bid, it should be so said; But let it be said, as in Isa. 62 6. <hi>I have set Watchmen upon thy Walls, that shall never hold their Peace, Day nor Night.</hi> Tis a Passage concerning a Great <hi>Gap-man,</hi> in Psal. 106 34. <hi>He stood up—and the Plague was stai'd.</hi> Some Jewish Interpreters, quote that Scripture, (and that in Gen. 19. 17.) to prove that Rule, <hi>Stare, nihil aliud Significat, quam Orare.</hi> Tis as much as to say, <hi>He Pray'd; Standing</hi> in <hi>Prayer</hi> was a Posture so usual, that it is become a Phrase for it. Well; Tis by so <hi>Standing,</hi> that we are to <hi>Stand</hi> in the <hi>Gap.</hi> Say then: What can, even the Poorest and meanest Person of us all, bring, for the Relief of our Wasting <hi>Hedge?</hi> I answer, A <hi>Life,</hi> if it be called for; but however, A <hi>Prayer;</hi> That <hi>is</hi> cal<g ref="char:EOLhyphen"/>led for. A <hi>Personal Hedge,</hi> is by daily <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> kept in Good Repair; When the <hi>Devils</hi> are beleaguring of us, they find our daily <hi>Prayer,</hi> do's cause us to become Invulnerable.
+<pb n="60" facs="tcp:171429:35"/> Well, Those very means of Daily <hi>Prayer</hi> will also do for a <hi>General Hedge;</hi> Impene<g ref="char:EOLhyphen"/>trable the Blessedness of a People, from and for which daily <hi>Prayer</hi> is going. I say then; Let it be our <hi>Daily Prayer,</hi> That We may not be left unto Incurable <hi>Backslidings</hi> from the <hi>Hope of our Fathers;</hi> That we may not by our <hi>Barrenness</hi> Provoke the God of Heaven to deprive us of all our <hi>Blessings;</hi> That we may not be bereaved of such Well-accom<g ref="char:EOLhyphen"/>plished <hi>Men</hi> in all orders, as we have here<g ref="char:EOLhyphen"/>tofore unthankfully Enjoy'd; <hi>[Ah, Lord; Say not that</hi> New-England <hi>shall be unworth<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> to have a MAN in it!]</hi> And that we may not be so forsaken by the Good <hi>Spirit</hi> of God, as to become, a <hi>Low-Spirited,</hi> a Dege<g ref="char:EOLhyphen"/>nerous, a Ridiculous, and at last, a Ruina<g ref="char:EOLhyphen"/>ted People. Is our <hi>Hedge</hi> any where Lying open? O fall in there, and fall down, upon our <hi>Knees</hi> there; but let us ever do it with an Exercise of Strong <hi>Faith</hi> in our Lord Je<g ref="char:EOLhyphen"/>sus Christ, the Only <hi>Mediator.</hi> We speed not, in our Supplications, <hi>That the Lord of Hosts, would Visit the Vineyard, whose Hedges are Broken down,</hi> Except we plead His Regard unto, <hi>The Man of His Right Hand, and the Son of Man, whom He hath made strong for Himself.</hi> After this manner, even they that make no <hi>Noise,</hi> or <hi>Show</hi> in the World, and
+<pb n="61" facs="tcp:171429:35"/> not only <hi>One man,</hi> but also <hi>One</hi> Praying, Devout, Gracious <hi>Woman; One Widow,</hi> who <hi>Trusteth in the Lord, and Continueth in Supplications and Prayers, Night and Day,</hi> May be a Repairer of a <hi>Broken Hedge;</hi> not only the <hi>Cedars</hi> of <hi>Lebanon,</hi> but even the poor little <hi>Hyssop</hi> that <hi>Springs out of the Wall,</hi> may do the <hi>Wall</hi> a Kindness.</p>
+               <p>
+                  <hi>Pray!</hi> Said I? Yea, Let us <hi>Fast</hi> as well as <hi>Pray.</hi> The Prophet speaking not only or chiefly about the <hi>Weekly Sabbath,</hi> but a<g ref="char:EOLhyphen"/>bout a <hi>Fasting Sabbath,</hi> saith to them who are much in the Exact Celebration of it, as in Isa. 58. 52. <hi>Thou shalt be called, the Repairer of the Breach.</hi> Sometimes <hi>One man,</hi> that ha's been much in such Extraordinary De<g ref="char:EOLhyphen"/>votions, ha's been <hi>Openly Rewarded</hi> by the God who <hi>sees in Secret,</hi> with a more than Ordinary Figure in Repairing the <hi>Hedges</hi> of His <hi>Israel.</hi> Ponder the Example of that Great Man, who in the Account which he himself Published, of his Negotiation at the Court of <hi>Persia</hi> for his People, tells us, Neh. 1. 3, 4. <hi>They said unto me, The <hi>Wall</hi> of Je<g ref="char:EOLhyphen"/>rusalem is broken down!—When I heard these Words, I sat down, and Wept and Mourned certain Dayes, and Fasted and Prayed before the God of Heaven.</hi> Give me your Attention! When a People are Insensible of the Impair<g ref="char:EOLhyphen"/>ments
+<pb n="62" facs="tcp:171429:36"/> befalling their <hi>Hedges</hi> and their <hi>Inter<g ref="char:EOLhyphen"/>ests,</hi> and perhaps, as tis commonly done, do themselves confound their own <hi>Hedges</hi> and <hi>Interests,</hi> I conceive, there is a more proper <hi>Enchantment</hi> therein, than men are well a<g ref="char:EOLhyphen"/>ware of: We need not at this time Explain this Conception any further, than by using words near to the Apostles, <hi>They are a Foolish People, and something ha's bewitched them.</hi> While a People are thus under <hi>En<g ref="char:EOLhyphen"/>chantment,</hi> it is a Vain thing, to Advise them, to Exhort them, to Warn them; till they are <hi>Unbewitched,</hi> things will take their course, as if they were under a sort of Irresistible <hi>Fatality,</hi> and men will be so <hi>Exceeding Fierce, that no man</hi> may cross them in their <hi>way.</hi> Now, if a man have, <hi>The Right Skill of En<g ref="char:EOLhyphen"/>countring Enchantments,</hi> he may do great things for the People of God; he may be a Glorious Instrument of bringing things to rights. And shall I tell you, what is that <hi>Skill?</hi> Wherein lyes the Strength of the <hi>Sampson,</hi> that shall do such a Thing? I'l tell you at Once; Tis in <hi>Fasting</hi> and <hi>Prayer</hi> before that God, who <hi>formeth the Spirit of man within him.</hi>
+               </p>
+               <p>There is Especially <hi>One Thing,</hi> where<g ref="char:EOLhyphen"/>in much <hi>Fasting</hi> and <hi>Prayer,</hi> would be of Singular Significancy to <hi>Repair</hi> us. All our
+<pb n="63" facs="tcp:171429:36"/>
+                  <hi>Breaches</hi> would be <hi>Repaired,</hi> if the <hi>Rising Generation</hi> among us, were more gene<g ref="char:EOLhyphen"/>rally Converted unto God. I beseech you, in the fear of God, Consider, what I say! The Impiety and Impenitence of the <hi>Young People</hi> throughout our Land, is, that Wound of all our <hi>Hedges,</hi> which hath, of all, the dismallest Aspect upon us. It would give us a New Prospect of Comfort, in all our Concerns, if we did in Good Earnest prosecute, an <hi>Expedient,</hi> which ha's been sometimes Proposed and Received among the Ministers of God. <q rend="margQuotes">Solemn DAYES of <hi>Prayer</hi> with <hi>Fasting,</hi> Celebrated in our Churches, to Implore the Grace of God, for the <hi>Rising Generation,</hi> would probably be of Blessed Consequence, for the Turning of our <hi>Young People</hi> unto the God of our Fathers. The more there is this way ascribed unto <hi>Grace,</hi> the more is the <hi>Grace</hi> of God, like to be Communi<g ref="char:EOLhyphen"/>cated; and there is in this way, a Natural and a Plentiful Tendency, to awaken our Unconverted Youth, unto a Sense of their Everlasting Interests; which, were it ge<g ref="char:EOLhyphen"/>nerally Accomplished, a Remarkable <hi>Re<g ref="char:EOLhyphen"/>formation,</hi> were therein Effected</q>
+               </p>
+               <p>Consider of these things, and God give you understanding!</p>
+               <pb n="64" facs="tcp:171429:37"/>
+               <p> To Conclude; What the Prophet <hi>Samuel</hi> said unto the <hi>General Assembly</hi> of <hi>Israel,</hi> I must say to <hi>You</hi> this Day. <hi>Stand still, that I may Reason with You, before the Lord, of all the Righteous Acts, which He did unto You, and unto Your Fathers!</hi>
+               </p>
+               <p>A CHARTER being once granted un<g ref="char:EOLhyphen"/>to the Governour and Company of the <hi>Massachusett-Bay,</hi> the Persecuted <hi>Puritans</hi> in the English Nation seeing that <hi>Ice</hi> broken, which had kept them in a <hi>Sea of Fire,</hi> be<g ref="char:EOLhyphen"/>gan to accept the <hi>American</hi> Offers, of a Re<g ref="char:EOLhyphen"/>treat for the Pure Worshippers of our Lord into a Wilderness. Many <hi>Gentlemen</hi> of An<g ref="char:EOLhyphen"/>cient, and Worshipful Families; Many <hi>Mi<g ref="char:EOLhyphen"/>nisters</hi> of the Gospel, then of Great Fame at Home; and <hi>Merchants, Husbandmen, Arti<g ref="char:EOLhyphen"/>ficers,</hi> to the Number of some thousands, did then <hi>Remove</hi> into these Regions; though t'was indeed a <hi>Banishment,</hi> rather than a <hi>Re<g ref="char:EOLhyphen"/>moval</hi> which was undergone, by this glori<g ref="char:EOLhyphen"/>ous Generation, Sufficiently Afflictive to men of Estate, Breeding, and Conversation. And, as the <hi>Hazard</hi> which they ran in this undertaking, was of such <hi>Extraordinariness,</hi> that nothing less than a Strange and Strong Impression from Heaven could have there<g ref="char:EOLhyphen"/>unto moved such Persons as were in it; so the <hi>Expence,</hi> with which they carried on the
+<pb n="65" facs="tcp:171429:37"/> Undertaking, for Twelve years together, was truly Extraordinary. By a Computa<g ref="char:EOLhyphen"/>tion, which I have seen; There was vastly more than <hi>Two Hundred Thousand Pounds</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aid out, for the first Settlement of the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lantation; and there were then Employ'd <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bout an <hi>Hundred and Ninety Eight</hi> Ships, in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>assing the Perils of the Seas, to accom<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lish this Renowned Settlement, whereof <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y the way, but <hi>One</hi> miscarried in those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erils. Briefly, The God of Heaven, as it <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ere Served a <hi>Summons</hi> upon the <hi>Spirits</hi> of His People, in the English Nation; Stirring <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p the <hi>Spirits</hi> of Thousands, who never <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aw the <hi>Faces</hi> of each other, with a most Unanimous Inclination, to leave all the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>leasant Accommodations of their Native Country, and Go over a Terrible <hi>Ocean,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>to a more Terrible <hi>Desart;</hi> and all this, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r; <hi>The Pure Enjoyment of all His Ordinances.</hi> How many Thousands of <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ounds,</hi> and which is more Considerable, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ow many Thousands of <hi>Lives,</hi> have since <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>one, to keep up the <hi>Hedges</hi> about this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ineyard of God, I leave to Your own En<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uiries! All that is now call'd for, is, That <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Consider with our selves, <hi>Whether the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oss of such a Country, in Barbarous Confusions, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r the want of Looking well after its Hedges,</hi>
+                  <pb n="66" facs="tcp:171429:38"/>
+                  <hi>will be found Excusable, in the Day when th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Great God shall Plead with us, about the Inte<g ref="char:EOLunhyphen"/>rests where-with He ha's betrusted us?</hi>
+               </p>
+               <p>That Parcel of <hi>Evil Figs</hi> which is now grown in our Land; Even, Those men, by whose <hi>Worldliness,</hi> by whose <hi>Frowardness,</hi> b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whose <hi>Littleness,</hi> by whose <hi>Unthankfulness,</hi> b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whose Disregard for <hi>Learning,</hi> and for<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Learned Ministry,</hi> by whose <hi>Forgetfulness</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <hi>Errand into the Wilderness,</hi> and by who Prodigious over sight of the only <hi>Season</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Method</hi> for the Obtaining of those thin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to <hi>Pass,</hi> which may Lengthen out our <hi>Tr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>quillity,</hi> before we come to a <hi>Way Hedged with Thorns,</hi> our <hi>Hedges</hi> are fearfully La<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>guishing! <hi>These</hi> will doubtless be Enrag<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at what <hi>Needful Advice</hi> ha's this Day be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> given you; and unspeakeable will be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Satisfaction of <hi>My</hi> Soul, in my having <hi>S<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> a Testimony, <hi>That I am a Servant of the m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Glorious Lord!</hi> But as for the <hi>Good Fig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Even those men, whom I continually h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> most Sollicitously Saying, <hi>What will becom<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> this People? What will they bring themse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> unto?</hi> Who are continually trembling, lest<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Golden Candlestick</hi> be <hi>Removed;</hi> who are c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tinually Mourning for all our <hi>Declensions</hi> f<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Things that <hi>are Holy and Just and G<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> And may we not hope that we have<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="67" facs="tcp:171429:38"/> some <hi>Thousands</hi> of People thus disposed? <hi>People,</hi> for the sake of whom, no Service, no Travail, no Self-denial is too much! <hi>These</hi> I am Sure, will be Glad that a <hi>Seri<g ref="char:EOLhyphen"/>ous Advice</hi> ha's been laid before You; and they will join with me, in this ardent Supplication, <hi>O Our Lord, Let there yet be those Men a<g ref="char:EOLhyphen"/>mong us, that shall make up Our Hedge, and Stand in the Gap before thee, for the Land; and so let it not be Destroy'd!</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 16. l. 1. <hi>r. Paroxysms.</hi> p. 42. l. 4. which <hi>r.</hi> with. p. 44. l. 11. <hi>r. Keepers.</hi>
+            </p>
+            <pb facs="tcp:171429:39"/>
+            <pb facs="tcp:171429:39"/>
+         </div>
+      </back>
+   </text>
+</TEI>
